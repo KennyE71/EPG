@@ -1,0 +1,3463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-name="Schedules Direct" generator-info-name="mc2xml" generator-info-url="mailto:mc2xml@gmail.com">
+	<channel id="I123.89887.schedulesdirect.org">
+		<display-name>itv ENCORE</display-name>
+		<display-name>123 itv ENCORE</display-name>
+		<display-name>123</display-name>
+		<display-name>ITV Encore HD</display-name>
+		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s89887_h3_aa.png" width="360" height="270" />
+	</channel>
+	<channel id="I4 Seven.75804.schedulesdirect.org">
+		<display-name>4SEVEN</display-name>
+		<display-name>4 Seven 4SEVEN</display-name>
+		<display-name>4 Seven</display-name>
+		<display-name>4Seven</display-name>
+		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s75804_h3_aa.png" width="360" height="270" />
+	</channel>
+	<channel id="I155.45828.schedulesdirect.org">
+		<display-name>Really</display-name>
+		<display-name>155 Really</display-name>
+		<display-name>155</display-name>
+		<display-name>Really UKTV</display-name>
+		<icon src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s45828_h3_aa.png" width="360" height="270" />
+	</channel>
+	<programme start="20180423035500 +0000" stop="20180423045500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Robin of Sherwood</title>
+		<sub-title lang="en">The King's Fool</sub-title>
+		<desc lang="en">King Richard, returning from imprisonment in Germany, is rescued by Robin and his men from vagabonds - but Robin is a little gullible and the King's gratitude is short-lived.</desc>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">EP02274490.0009</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+	</programme>
+	<programme start="20180423045500 +0000" stop="20180423050000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">ITV Encore Nightscreen</title>
+		<desc lang="en">Text-based information service.</desc>
+		<category lang="en">Entertainment</category>
+		<category lang="en">Special</category>
+		<episode-num system="dd_progid">SH02411802.0000</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20160428000000" />
+	</programme>
+	<programme start="20180423050000 +0000" stop="20180423051000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Drama Trails</title>
+		<desc lang="en">James Nesbitt narrates this series telling the stories behind TV's greatest dramas and the connections between them.</desc>
+		<credits>
+			<presenter>James Nesbitt</presenter>
+		</credits>
+		<category lang="en">Documentary</category>
+		<episode-num system="dd_progid">SH01304705.0000</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20100722000000" />
+	</programme>
+	<programme start="20180423051000 +0000" stop="20180423063000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Island at War</title>
+		<sub-title lang="en">Unexpected Revelations</sub-title>
+		<desc lang="en">Von Rheingarten takes a shine to Philip. Walker is obsessed with Zelda, and having discovered her secret offers to let her remain if she sleeps with him. Angelique fears for Bernhardt after a large number of German planes are shot down by the British. Wilf and Harry argue about Wilf's job as a German chauffeur, and they end up fighting.</desc>
+		<date>20040815</date>
+		<category lang="en">Drama</category>
+		<category lang="en">War</category>
+		<category lang="en">Miniseries</category>
+		<length units="seconds">4080</length>
+		<episode-num system="dd_progid">EP01305119.0007</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20040815000000" />
+	</programme>
+	<programme start="20180423063000 +0000" stop="20180423073500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Brideshead Revisited</title>
+		<sub-title lang="en">A Blow Upon a Bruise</sub-title>
+		<desc lang="en">New Year at Brideshead furthers Sebastian's descent in the eyes of his family, and Charles angers the Marchmains when he attempts to help.</desc>
+		<credits>
+			<actor>Jeremy Irons</actor>
+			<actor>Anthony Andrews</actor>
+			<actor>Diana Quick</actor>
+			<actor>Simon Jones</actor>
+			<actor>Phoebe Nicholls</actor>
+			<actor>Claire Bloom</actor>
+			<actor>Laurence Olivier</actor>
+			<actor>John Gielgud</actor>
+			<actor>Charles Keating</actor>
+			<actor>Jeremy Sinden</actor>
+			<actor>Mona Washbourne</actor>
+			<actor>John Grillo</actor>
+			<actor>Nickolas Grace</actor>
+			<actor>Jane Asher</actor>
+			<actor>Stéphane Audran</actor>
+		</credits>
+		<date>19811110</date>
+		<category lang="en">Drama</category>
+		<length units="seconds">3180</length>
+		<episode-num system="dd_progid">EP01283345.0010</episode-num>
+		<episode-num system="xmltv_ns">0.4.</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="19811110000000" />
+		<rating system="British Board of Film Classification">
+			<value>Uc</value>
+		</rating>
+	</programme>
+	<programme start="20180423073500 +0000" stop="20180423080500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">My Uncle Silas</title>
+		<sub-title lang="en">A Funny Thing</sub-title>
+		<desc lang="en">Drama series based on stories by H E Bates. Put out by visiting cousin Cosmo, Silas poses for sculptor Lady Hermione but falls foul of her snooty fiance.</desc>
+		<date>20021001</date>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">EP01274687.0005</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20021001000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180423080500 +0000" stop="20180423083500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">My Uncle Silas</title>
+		<sub-title lang="en">Finger Wet, Finger Dry</sub-title>
+		<desc lang="en">Connie and Silas try to get to know each other a little better, but a chance return traps Silas in an embarrassing situation.</desc>
+		<date>20021001</date>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">EP01274687.0006</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20021001000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180423083500 +0000" stop="20180423093500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Heartbeat</title>
+		<sub-title lang="en">For Whom the Bell Tolls</sub-title>
+		<desc lang="en">Lord Ashfordly is concerned about falling royalties from High Rigg quarry and asks Blaketon to investigate. The police are concerned about a quantity of explosives which have gone missing from the quarry just before a visit by the defence minister.</desc>
+		<credits>
+			<director>Noreen Kershaw</director>
+			<actor>Peter Benson</actor>
+			<actor>David Lonsdale</actor>
+			<actor>Tricia Penrose</actor>
+			<actor>Derek Fowlds</actor>
+			<actor>William Simons</actor>
+			<actor>Jason Durr</actor>
+			<actor>Mark Jordan</actor>
+			<actor>Geoffrey Hughes</actor>
+			<actor>Duncan Bell</actor>
+			<writer>Nicholas Rhea</writer>
+			<writer>Peter Gibbs</writer>
+			<producer>Keith Richardson</producer>
+			<guest>Francis Matthews</guest>
+			<guest>John Labanowski</guest>
+		</credits>
+		<date>20030105</date>
+		<category lang="en">Crime drama</category>
+		<episode-num system="dd_progid">EP01258761.0253</episode-num>
+		<episode-num system="xmltv_ns">11.12/25.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20030105000000" />
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180423093500 +0000" stop="20180423104500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">The Grand</title>
+		<desc lang="en">Period drama series about a luxury hotel.</desc>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">SH01306137.0000</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="19971111000000" />
+	</programme>
+	<programme start="20180423104500 +0000" stop="20180423115500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Brideshead Revisited</title>
+		<sub-title lang="en">Julia</sub-title>
+		<desc lang="en">Rex Mottram visits Charles in Paris with news of the Marchmains.</desc>
+		<credits>
+			<director>Charles Sturridge</director>
+			<actor>Jeremy Irons</actor>
+			<actor>Anthony Andrews</actor>
+			<actor>Diana Quick</actor>
+			<actor>Simon Jones</actor>
+			<actor>Phoebe Nicholls</actor>
+			<actor>Claire Bloom</actor>
+			<actor>Laurence Olivier</actor>
+			<actor>John Gielgud</actor>
+			<actor>Charles Keating</actor>
+			<actor>Jeremy Sinden</actor>
+			<actor>Mona Washbourne</actor>
+			<actor>John Grillo</actor>
+			<actor>Nickolas Grace</actor>
+			<actor>Jane Asher</actor>
+			<actor>Stéphane Audran</actor>
+			<actor>Susan Field</actor>
+			<actor>Jenny Runacre</actor>
+			<actor>Roger Milner</actor>
+			<writer>John Mortimer</writer>
+		</credits>
+		<date>19811117</date>
+		<category lang="en">Drama</category>
+		<length units="seconds">3180</length>
+		<episode-num system="dd_progid">EP01283345.0011</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="19811117000000" />
+		<rating system="British Board of Film Classification">
+			<value>Uc</value>
+		</rating>
+	</programme>
+	<programme start="20180423115500 +0000" stop="20180423122500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">My Uncle Silas</title>
+		<sub-title lang="en">Shandy Lil</sub-title>
+		<desc lang="en">A spot of matchmaking enlivens the summer harvest for Silas as he attempts to pair Lil with Pikey the thresher. However, his efforts are misconstrued by Pamela, who turns her attentions towards Silas.</desc>
+		<date>20020924</date>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">EP01274687.0001</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20020924000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180423122500 +0000" stop="20180423125500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">My Uncle Silas</title>
+		<sub-title lang="en">The Race</sub-title>
+		<desc lang="en">The village is agog as Silas challenges Goffy Windsor to a race over five miles. While Goffy starts training hard, Silas suffers a succession of ailments - but has he got a cunning plan up his sleeve?</desc>
+		<date>20020924</date>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">EP01274687.0002</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20020924000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180423125500 +0000" stop="20180423140000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">The Grand</title>
+		<desc lang="en">Period drama series about a luxury hotel.</desc>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">SH01306137.0000</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="19971111000000" />
+	</programme>
+	<programme start="20180423140000 +0000" stop="20180423150000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Heartbeat</title>
+		<sub-title lang="en">Out of the Blue</sub-title>
+		<desc lang="en">David and Vernon are travelling in a tanker which overturns and spills its load. Vernon is taken to hospital with memory loss and David claims not to know what they were carrying.</desc>
+		<credits>
+			<director>Paul Walker</director>
+			<actor>Peter Benson</actor>
+			<actor>David Lonsdale</actor>
+			<actor>Tricia Penrose</actor>
+			<actor>Derek Fowlds</actor>
+			<actor>William Simons</actor>
+			<actor>Jason Durr</actor>
+			<actor>Mark Jordan</actor>
+			<actor>Geoffrey Hughes</actor>
+			<actor>Duncan Bell</actor>
+			<writer>Nicholas Rhea</writer>
+			<writer>Jane Hollowood</writer>
+			<producer>Keith Richardson</producer>
+			<guest>Michael Starke</guest>
+			<guest>Robert Daws</guest>
+		</credits>
+		<date>20030112</date>
+		<category lang="en">Crime drama</category>
+		<episode-num system="dd_progid">EP01258761.0309</episode-num>
+		<episode-num system="xmltv_ns">11.13/25.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20030112000000" />
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180423150000 +0000" stop="20180423160500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">The Glass</title>
+		<desc lang="en">Duggan is revealed to be Proctor's son. Carol is pregnant and doesn't know who the father is.</desc>
+		<date>20010701</date>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">EP02295030.0002</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20010701000000" />
+	</programme>
+	<programme start="20180423160500 +0000" stop="20180423174500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Island at War</title>
+		<sub-title lang="en">Unusual Successes</sub-title>
+		<desc lang="en">James gives Philip information on the Germans' plans. Wilf offers Philip his boat to escape and Sheldon suggests that Zelda go with him.</desc>
+		<date>20040815</date>
+		<category lang="en">Drama</category>
+		<category lang="en">War</category>
+		<category lang="en">Miniseries</category>
+		<length units="seconds">4080</length>
+		<episode-num system="dd_progid">EP01305119.0001</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20040815000000" />
+	</programme>
+	<programme start="20180423174500 +0000" stop="20180423185500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Agatha Christie's Poirot</title>
+		<sub-title lang="en">The Adventure of the Clapham Cook</sub-title>
+		<desc lang="en">Poirot is intrigued to find out what happened to a cook after seeing the contents of the cook's trunk.</desc>
+		<credits>
+			<director>Edward Bennett</director>
+			<actor>David Suchet</actor>
+			<actor>Hugh Fraser</actor>
+			<actor>Philip Jackson</actor>
+			<actor>Pauline Moran</actor>
+			<writer>Clive Exton</writer>
+			<writer>Agatha Christie</writer>
+			<producer>Brian Eastman</producer>
+			<producer>Nick Elliott</producer>
+			<producer>Linda Agran</producer>
+			<guest>Freda Dowie</guest>
+			<guest>Dermot Crowley</guest>
+			<guest>Brigit Forsyth</guest>
+		</credits>
+		<date>19890108</date>
+		<category lang="en">Mystery</category>
+		<category lang="en">Crime drama</category>
+		<category lang="en">Adventure</category>
+		<length units="seconds">3180</length>
+		<episode-num system="dd_progid">EP01258878.0047</episode-num>
+		<episode-num system="xmltv_ns">0.0/10.</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="19890108000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+			<value>K7</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180423185500 +0000" stop="20180423200000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Agatha Christie's Poirot</title>
+		<sub-title lang="en">Murder in the Mews</sub-title>
+		<desc lang="en">When Captain Hastings points out to Poirot that the noise of fireworks on Guy Fawkes Night could provide the ideal opportunity for a murder, little does he suspect that it will happen in his mews garage.</desc>
+		<credits>
+			<director>Renny Rye</director>
+			<director>Edward Bennett</director>
+			<actor>David Suchet</actor>
+			<actor>Hugh Fraser</actor>
+			<actor>Philip Jackson</actor>
+			<actor>Pauline Moran</actor>
+			<actor>David Yelland</actor>
+			<writer>Clive Exton</writer>
+			<writer>Agatha Christie</writer>
+			<producer>Brian Eastman</producer>
+			<producer>Nick Elliott</producer>
+			<producer>Linda Agran</producer>
+			<guest>Juliette Mole</guest>
+			<guest>Barrie Cookson</guest>
+		</credits>
+		<date>19890115</date>
+		<category lang="en">Crime drama</category>
+		<category lang="en">Adventure</category>
+		<category lang="en">Mystery</category>
+		<length units="seconds">3240</length>
+		<episode-num system="dd_progid">EP01258878.0080</episode-num>
+		<episode-num system="xmltv_ns">0.1/10.</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="19890115000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+			<value>K7</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180423200000 +0000" stop="20180423210000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">The Loch</title>
+		<desc lang="en">The town is reeling from the shooting at the dam and Dessie Toner's suicide. DCI Quigley is under pressure to wrap up the case but knows there are questions that remain unresolved.</desc>
+		<credits>
+			<actor>Laura Fraser</actor>
+			<actor>Siobhan Finneran</actor>
+			<actor>William Ash</actor>
+			<actor>Jack Bannon</actor>
+			<actor>John Heffernan</actor>
+			<actor>Don Gilet</actor>
+			<actor>Simone Lahbib</actor>
+		</credits>
+		<date>20170716</date>
+		<category lang="en">Crime drama</category>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">EP02708131.0006</episode-num>
+		<episode-num system="xmltv_ns">0.5/6.</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20170716000000" />
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180423210000 +0000" stop="20180423220000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Prime Suspect 1973</title>
+		<desc lang="en">Jane finds herself in mortal danger as she makes a final discovery about Julie Ann's murder.</desc>
+		<credits>
+			<actor>Stefanie Martini</actor>
+			<actor>Sam Reid</actor>
+			<actor>Alun Armstrong</actor>
+			<actor>Blake Harrison</actor>
+			<actor>Andrew Brooke</actor>
+			<actor>Daniel Ezra</actor>
+		</credits>
+		<date>20170406</date>
+		<category lang="en">Crime</category>
+		<category lang="en">Crime drama</category>
+		<category lang="en">Drama</category>
+		<category lang="en">Miniseries</category>
+		<episode-num system="dd_progid">EP02625800.0006</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20170406000000" />
+		<rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+			<value>K12</value>
+		</rating>
+	</programme>
+	<programme start="20180423220000 +0000" stop="20180423230000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Whitechapel</title>
+		<desc lang="en">Is this killer more interested in the victim's skin than their death? As more flayed bodies turn up Chandler and Miles question the motives behind these bloody deeds.</desc>
+		<credits>
+			<actor>Rupert Penry-Jones</actor>
+			<actor>Phil Davis</actor>
+			<actor>Steve Pemberton</actor>
+			<actor>Sam Stockman</actor>
+			<actor>Hannah Walters</actor>
+			<actor>Ben Bishop</actor>
+			<producer>Sally Woodward-Gentle</producer>
+		</credits>
+		<date>20130925</date>
+		<category lang="en">Crime drama</category>
+		<length units="seconds">2760</length>
+		<episode-num system="dd_progid">EP01289341.0018</episode-num>
+		<episode-num system="xmltv_ns">3.3/6.</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20130925000000" />
+		<rating system="Australian Classification Board">
+			<value>MA 15+</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180423230000 +0000" stop="20180423235500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Whitechapel</title>
+		<desc lang="en">Chandler and Miles are struggling to keep the team together, they have become fearful and fractured following Buchan's kidnap and there is an oppressive atmosphere in the police station.</desc>
+		<credits>
+			<actor>Rupert Penry-Jones</actor>
+			<actor>Phil Davis</actor>
+			<actor>Steve Pemberton</actor>
+			<actor>Sam Stockman</actor>
+			<actor>Hannah Walters</actor>
+			<actor>Ben Bishop</actor>
+			<producer>Sally Woodward-Gentle</producer>
+		</credits>
+		<date>20131002</date>
+		<category lang="en">Crime drama</category>
+		<length units="seconds">2760</length>
+		<episode-num system="dd_progid">EP01289341.0019</episode-num>
+		<episode-num system="xmltv_ns">3.4/6.</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20131002000000" />
+		<rating system="Australian Classification Board">
+			<value>MA 15+</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180423235500 +0000" stop="20180424005000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Whitechapel</title>
+		<desc lang="en">The hunt is on to find a gang of cannibalistic killers running wild in Whitechapel's underground tunnels before a blameless young girl becomes the next victim. The station is under attack and the forces of evil are moving against the team on all sides. The case becomes dangerously personal for Chandler, and he is forced to take desperate measures.</desc>
+		<credits>
+			<actor>Rupert Penry-Jones</actor>
+			<actor>Phil Davis</actor>
+			<actor>Steve Pemberton</actor>
+			<actor>Sam Stockman</actor>
+			<actor>Hannah Walters</actor>
+			<actor>Ben Bishop</actor>
+			<producer>Sally Woodward-Gentle</producer>
+		</credits>
+		<date>20131009</date>
+		<category lang="en">Crime drama</category>
+		<length units="seconds">2760</length>
+		<episode-num system="dd_progid">EP01289341.0020</episode-num>
+		<episode-num system="xmltv_ns">3.5/6.</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20131009000000" />
+		<rating system="Australian Classification Board">
+			<value>MA 15+</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180424005000 +0000" stop="20180424014500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">The Level</title>
+		<desc lang="en">Nancy finally sees the truth, but struggles to persuade Newman she is right. With nothing to lose, she must operate outside the law one last time.</desc>
+		<credits>
+			<director>Andy Goddard</director>
+			<actor>Karla Crome</actor>
+			<actor>Laura Haddock</actor>
+			<actor>Noel Clarke</actor>
+			<actor>Rob James-Collier</actor>
+			<actor>Lindsey Coulson</actor>
+			<actor>Andy Goddard</actor>
+			<actor>Jane Dauncey</actor>
+			<writer>Gaby Chiappe</writer>
+		</credits>
+		<date>20161104</date>
+		<category lang="en">Crime drama</category>
+		<episode-num system="dd_progid">EP02513406.0006</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20161104000000" />
+	</programme>
+	<programme start="20180424014500 +0000" stop="20180424024000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">The Glass</title>
+		<desc lang="en">Duggan is revealed to be Proctor's son. Carol is pregnant and doesn't know who the father is.</desc>
+		<date>20010701</date>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">EP02295030.0002</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20010701000000" />
+	</programme>
+	<programme start="20180424024000 +0000" stop="20180424034000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">The Grand</title>
+		<desc lang="en">Period drama series about a luxury hotel.</desc>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">SH01306137.0000</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="19971111000000" />
+	</programme>
+	<programme start="20180424034000 +0000" stop="20180424044000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Robin of Sherwood</title>
+		<sub-title lang="en">The Prophecy</sub-title>
+		<desc lang="en">Prince John descends on Nottingham with a mysterious prisoner. The outlaws devise a plan to free the captive, not realising the effect he will have on them all - particularly Marion.</desc>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">EP02274490.0010</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+	</programme>
+	<programme start="20180424044000 +0000" stop="20180424050000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">ITV Encore Nightscreen</title>
+		<desc lang="en">Text-based information service.</desc>
+		<category lang="en">Entertainment</category>
+		<category lang="en">Special</category>
+		<episode-num system="dd_progid">SH02411802.0000</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20160428000000" />
+	</programme>
+	<programme start="20180424050000 +0000" stop="20180424051000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Drama Trails</title>
+		<desc lang="en">James Nesbitt narrates this series telling the stories behind TV's greatest dramas and the connections between them.</desc>
+		<credits>
+			<presenter>James Nesbitt</presenter>
+		</credits>
+		<category lang="en">Documentary</category>
+		<episode-num system="dd_progid">SH01304705.0000</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20100722000000" />
+	</programme>
+	<programme start="20180424051000 +0000" stop="20180424052000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Drama Trails</title>
+		<desc lang="en">James Nesbitt narrates this series telling the stories behind TV's greatest dramas and the connections between them.</desc>
+		<credits>
+			<presenter>James Nesbitt</presenter>
+		</credits>
+		<category lang="en">Documentary</category>
+		<episode-num system="dd_progid">SH01304705.0000</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20100722000000" />
+	</programme>
+	<programme start="20180424052000 +0000" stop="20180424064500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Island at War</title>
+		<sub-title lang="en">Unusual Successes</sub-title>
+		<desc lang="en">James gives Philip information on the Germans' plans. Wilf offers Philip his boat to escape and Sheldon suggests that Zelda go with him.</desc>
+		<date>20040815</date>
+		<category lang="en">Drama</category>
+		<category lang="en">War</category>
+		<category lang="en">Miniseries</category>
+		<length units="seconds">4080</length>
+		<episode-num system="dd_progid">EP01305119.0001</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20040815000000" />
+	</programme>
+	<programme start="20180424064500 +0000" stop="20180424075500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Brideshead Revisited</title>
+		<sub-title lang="en">Julia</sub-title>
+		<desc lang="en">Rex Mottram visits Charles in Paris with news of the Marchmains.</desc>
+		<credits>
+			<director>Charles Sturridge</director>
+			<actor>Jeremy Irons</actor>
+			<actor>Anthony Andrews</actor>
+			<actor>Diana Quick</actor>
+			<actor>Simon Jones</actor>
+			<actor>Phoebe Nicholls</actor>
+			<actor>Claire Bloom</actor>
+			<actor>Laurence Olivier</actor>
+			<actor>John Gielgud</actor>
+			<actor>Charles Keating</actor>
+			<actor>Jeremy Sinden</actor>
+			<actor>Mona Washbourne</actor>
+			<actor>John Grillo</actor>
+			<actor>Nickolas Grace</actor>
+			<actor>Jane Asher</actor>
+			<actor>Stéphane Audran</actor>
+			<actor>Susan Field</actor>
+			<actor>Jenny Runacre</actor>
+			<actor>Roger Milner</actor>
+			<writer>John Mortimer</writer>
+		</credits>
+		<date>19811117</date>
+		<category lang="en">Drama</category>
+		<length units="seconds">3180</length>
+		<episode-num system="dd_progid">EP01283345.0011</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="19811117000000" />
+		<rating system="British Board of Film Classification">
+			<value>Uc</value>
+		</rating>
+	</programme>
+	<programme start="20180424075500 +0000" stop="20180424082500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">My Uncle Silas</title>
+		<sub-title lang="en">Shandy Lil</sub-title>
+		<desc lang="en">A spot of matchmaking enlivens the summer harvest for Silas as he attempts to pair Lil with Pikey the thresher. However, his efforts are misconstrued by Pamela, who turns her attentions towards Silas.</desc>
+		<date>20020924</date>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">EP01274687.0001</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20020924000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180424082500 +0000" stop="20180424085500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">My Uncle Silas</title>
+		<sub-title lang="en">The Race</sub-title>
+		<desc lang="en">The village is agog as Silas challenges Goffy Windsor to a race over five miles. While Goffy starts training hard, Silas suffers a succession of ailments - but has he got a cunning plan up his sleeve?</desc>
+		<date>20020924</date>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">EP01274687.0002</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20020924000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180424085500 +0000" stop="20180424100000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Heartbeat</title>
+		<sub-title lang="en">Out of the Blue</sub-title>
+		<desc lang="en">David and Vernon are travelling in a tanker which overturns and spills its load. Vernon is taken to hospital with memory loss and David claims not to know what they were carrying.</desc>
+		<credits>
+			<director>Paul Walker</director>
+			<actor>Peter Benson</actor>
+			<actor>David Lonsdale</actor>
+			<actor>Tricia Penrose</actor>
+			<actor>Derek Fowlds</actor>
+			<actor>William Simons</actor>
+			<actor>Jason Durr</actor>
+			<actor>Mark Jordan</actor>
+			<actor>Geoffrey Hughes</actor>
+			<actor>Duncan Bell</actor>
+			<writer>Nicholas Rhea</writer>
+			<writer>Jane Hollowood</writer>
+			<producer>Keith Richardson</producer>
+			<guest>Michael Starke</guest>
+			<guest>Robert Daws</guest>
+		</credits>
+		<date>20030112</date>
+		<category lang="en">Crime drama</category>
+		<episode-num system="dd_progid">EP01258761.0309</episode-num>
+		<episode-num system="xmltv_ns">11.13/25.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20030112000000" />
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180424100000 +0000" stop="20180424110000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">The Grand</title>
+		<desc lang="en">Period drama series about a luxury hotel.</desc>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">SH01306137.0000</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="19971111000000" />
+	</programme>
+	<programme start="20180424110000 +0000" stop="20180424121500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Brideshead Revisited</title>
+		<sub-title lang="en">The Unseen Hook</sub-title>
+		<desc lang="en">Julia entrusts Charles to find Sebastian Morocco and bring him back to see his dying mother, Lady Marchmain.</desc>
+		<credits>
+			<director>Michael Lindsay-Hogg</director>
+			<director>Charles Sturridge</director>
+			<actor>Jeremy Irons</actor>
+			<actor>Anthony Andrews</actor>
+			<actor>Diana Quick</actor>
+			<actor>Simon Jones</actor>
+			<actor>Phoebe Nicholls</actor>
+			<actor>Claire Bloom</actor>
+			<actor>Laurence Olivier</actor>
+			<actor>John Gielgud</actor>
+			<actor>Charles Keating</actor>
+			<actor>Jeremy Sinden</actor>
+			<actor>Mona Washbourne</actor>
+			<actor>John Grillo</actor>
+			<actor>Nickolas Grace</actor>
+			<actor>Jane Asher</actor>
+			<actor>Stéphane Audran</actor>
+			<actor>Roger Milner</actor>
+			<writer>John Mortimer</writer>
+		</credits>
+		<date>19811124</date>
+		<category lang="en">Drama</category>
+		<length units="seconds">3180</length>
+		<episode-num system="dd_progid">EP01283345.0016</episode-num>
+		<episode-num system="xmltv_ns">0.6.</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="19811124000000" />
+	</programme>
+	<programme start="20180424121500 +0000" stop="20180424124500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">My Uncle Silas</title>
+		<sub-title lang="en">A Happy Man</sub-title>
+		<desc lang="en">Edward is fascinated by the war memorabilia of old soldier Walter, but Silas is more concerned by the threat that Walter poses at a forthcoming flower show they are both competing in.</desc>
+		<date>20021008</date>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">EP01274687.0003</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20021008000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180424124500 +0000" stop="20180424131500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">My Uncle Silas</title>
+		<sub-title lang="en">The Christening</sub-title>
+		<desc lang="en">Mrs Betts is appalled by Silas when he begins lusting after the widow Ellen, while young Edward takes a shine to Ellen's daughter Sally.</desc>
+		<date>20021008</date>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">EP01274687.0004</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20021008000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180424131500 +0000" stop="20180424142500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">The Grand</title>
+		<desc lang="en">Period drama series about a luxury hotel.</desc>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">SH01306137.0000</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="19971111000000" />
+	</programme>
+	<programme start="20180424142500 +0000" stop="20180424152500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Heartbeat</title>
+		<sub-title lang="en">Hung for a Sheep</sub-title>
+		<desc lang="en">Ventress thinks the new PC is a bit too anxious to prove his worth, while Vernon attempts to impress another new arrival.</desc>
+		<credits>
+			<director>Gerry Mill</director>
+			<actor>Peter Benson</actor>
+			<actor>David Lonsdale</actor>
+			<actor>Tricia Penrose</actor>
+			<actor>Derek Fowlds</actor>
+			<actor>William Simons</actor>
+			<actor>Jason Durr</actor>
+			<actor>Mark Jordan</actor>
+			<actor>Geoffrey Hughes</actor>
+			<actor>Duncan Bell</actor>
+			<writer>Nicholas Rhea</writer>
+			<writer>John Flanagan</writer>
+			<producer>Keith Richardson</producer>
+			<guest>Beatrice Kelly</guest>
+			<guest>Mark Spalding</guest>
+		</credits>
+		<date>20030316</date>
+		<category lang="en">Crime drama</category>
+		<episode-num system="dd_progid">EP01258761.0231</episode-num>
+		<episode-num system="xmltv_ns">11.15/25.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20030316000000" />
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180424152500 +0000" stop="20180424163000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Micawber</title>
+		<sub-title lang="en">Micawber Learns the Truth</sub-title>
+		<desc lang="en">The eternal optimist who believes that "something will turn up", Micawber barely provides for his ever-increasing family and is now being pursued by a ruthless moneylender. His sister-in-law reveals how the Micawbers came to this.</desc>
+		<date>20010918</date>
+		<category lang="en">Suspense</category>
+		<episode-num system="dd_progid">EP01321071.0002</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20010918000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180424163000 +0000" stop="20180424174500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Ruth Rendell Mysteries</title>
+		<sub-title lang="en">Master of the Moor</sub-title>
+		<desc lang="en">A man discovers the mutilated body of a young woman on the moors, and becomes obsessed with tracking down the beast that has defiled what he regards as his kingdom.</desc>
+		<credits>
+			<director>Marc Evans</director>
+			<actor>Colin Firth</actor>
+			<actor>B.J. McLagan</actor>
+			<actor>Rachel Fielding</actor>
+			<actor>Emma Croft</actor>
+			<actor>John Michie</actor>
+			<actor>Andy Greenhalgh</actor>
+			<writer>Trevor Preston</writer>
+			<writer>Ruth Rendell</writer>
+			<producer>Graham Benson</producer>
+		</credits>
+		<date>19940902</date>
+		<category lang="en">Crime drama</category>
+		<category lang="en">Mystery</category>
+		<episode-num system="dd_progid">EP01318421.0014</episode-num>
+		<episode-num system="xmltv_ns">6.0/3.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="19940902000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180424174500 +0000" stop="20180424185500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Agatha Christie's Poirot</title>
+		<sub-title lang="en">Murder in the Mews</sub-title>
+		<desc lang="en">When Captain Hastings points out to Poirot that the noise of fireworks on Guy Fawkes Night could provide the ideal opportunity for a murder, little does he suspect that it will happen in his mews garage.</desc>
+		<credits>
+			<director>Renny Rye</director>
+			<director>Edward Bennett</director>
+			<actor>David Suchet</actor>
+			<actor>Hugh Fraser</actor>
+			<actor>Philip Jackson</actor>
+			<actor>Pauline Moran</actor>
+			<actor>David Yelland</actor>
+			<writer>Clive Exton</writer>
+			<writer>Agatha Christie</writer>
+			<producer>Brian Eastman</producer>
+			<producer>Nick Elliott</producer>
+			<producer>Linda Agran</producer>
+			<guest>Juliette Mole</guest>
+			<guest>Barrie Cookson</guest>
+		</credits>
+		<date>19890115</date>
+		<category lang="en">Crime drama</category>
+		<category lang="en">Adventure</category>
+		<category lang="en">Mystery</category>
+		<length units="seconds">3240</length>
+		<episode-num system="dd_progid">EP01258878.0080</episode-num>
+		<episode-num system="xmltv_ns">0.1/10.</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="19890115000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+			<value>K7</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180424185500 +0000" stop="20180424200000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Agatha Christie's Poirot</title>
+		<sub-title lang="en">The Adventure of Johnnie Waverly</sub-title>
+		<desc lang="en">Inspector Japp does not consider a ransom note a serious threat to public order, but Poirot begs to differ.</desc>
+		<credits>
+			<director>Renny Rye</director>
+			<actor>David Suchet</actor>
+			<actor>Hugh Fraser</actor>
+			<actor>Philip Jackson</actor>
+			<actor>Pauline Moran</actor>
+			<writer>Agatha Christie</writer>
+			<writer>Clive Exton</writer>
+			<producer>Brian Eastman</producer>
+			<producer>Nick Elliott</producer>
+			<producer>Linda Agran</producer>
+			<guest>Geoffrey Bateman</guest>
+			<guest>Dominic Rougier</guest>
+		</credits>
+		<date>19890122</date>
+		<category lang="en">Crime drama</category>
+		<category lang="en">Adventure</category>
+		<category lang="en">Mystery</category>
+		<length units="seconds">3180</length>
+		<episode-num system="dd_progid">EP01258878.0019</episode-num>
+		<episode-num system="xmltv_ns">0.2/10.</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="19890122000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+			<value>K7</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180424200000 +0000" stop="20180424210000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Whitechapel</title>
+		<desc lang="en">When ambitious DI Joseph Chandler is assigned what looks like a simple case of domestic violence, he thinks a quick result will line him up for promotion. However, when the investigation runs out of suspects, Chandler finds an alternative theory from Edward Buchan, an expert on Jack the Ripper. Buchan points out the similarities between the murder and the Ripper's killings, and the race is on to catch the copycat killer.</desc>
+		<credits>
+			<director>S.J. Clarkson</director>
+			<actor>Rupert Penry-Jones</actor>
+			<actor>Steve Pemberton</actor>
+			<actor>Philip Davis</actor>
+			<actor>Alex Jennings</actor>
+			<actor>Christopher Fulford</actor>
+			<actor>Johnny Harris</actor>
+			<writer>Ben Court</writer>
+			<writer>Caroline Ip</writer>
+			<producer>Sally Woodward-Gentle</producer>
+		</credits>
+		<date>20090202</date>
+		<category lang="en">Crime drama</category>
+		<length units="seconds">2760</length>
+		<episode-num system="dd_progid">EP01289341.0001</episode-num>
+		<episode-num system="xmltv_ns">0.0/3.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20090202000000" />
+		<rating system="Australian Classification Board">
+			<value>MA 15+</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>16</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180424210000 +0000" stop="20180424220000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Whitechapel</title>
+		<desc lang="en">DI Chandler continues to clash with cynical DS Miles and the team, and the situation is not helped by difficulties with their murder investigation. New suspects only lead to dead ends, and the police struggle to penetrate the conspiracies and myths that surround the legend of Jack the Ripper. A frustrated Chandler pins his hopes on trapping their latest suspect, but the operation goes horribly wrong.</desc>
+		<credits>
+			<director>S.J. Clarkson</director>
+			<actor>Rupert Penry-Jones</actor>
+			<actor>Steve Pemberton</actor>
+			<actor>Alex Jennings</actor>
+			<actor>Christopher Fulford</actor>
+			<actor>Johnny Harris</actor>
+			<actor>George Rossi</actor>
+			<actor>Philip Davis</actor>
+			<writer>Ben Court</writer>
+			<writer>Caroline Ip</writer>
+			<producer>Sally Woodward-Gentle</producer>
+		</credits>
+		<date>20090209</date>
+		<category lang="en">Crime drama</category>
+		<length units="seconds">2760</length>
+		<episode-num system="dd_progid">EP01289341.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1/3.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20090209000000" />
+		<rating system="Australian Classification Board">
+			<value>MA 15+</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180424220000 +0000" stop="20180424230000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Whitechapel</title>
+		<desc lang="en">The Ripper must kill one more victim to complete his re-enactment of the 1888 murders. DI Chandler is near to breakdown as he struggles to find an answer. Forensics and CCTV are useless, and the team are forced to rely on their instincts, hoping that the past will provide some clue to the killer's identity. However, time is ticking away, and history tells us that Jack the Ripper was never caught.</desc>
+		<credits>
+			<director>S.J. Clarkson</director>
+			<actor>Rupert Penry-Jones</actor>
+			<actor>Philip Davis</actor>
+			<actor>Johnny Harris</actor>
+			<actor>Sam Stockman</actor>
+			<actor>George Rossi</actor>
+			<actor>Paul Hickey</actor>
+			<writer>Ben Court</writer>
+			<writer>Caroline Ip</writer>
+			<producer>Sally Woodward-Gentle</producer>
+		</credits>
+		<date>20090216</date>
+		<category lang="en">Crime drama</category>
+		<length units="seconds">2700</length>
+		<episode-num system="dd_progid">EP01289341.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2/3.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20090216000000" />
+		<rating system="Australian Classification Board">
+			<value>MA 15+</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180424230000 +0000" stop="20180425003000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Dark Angel</title>
+		<desc lang="en">Mary Ann strikes again when James changes his mind about marrying her.</desc>
+		<credits>
+			<director>Brian Percival</director>
+			<actor>Joanne Froggatt</actor>
+			<actor>Jonas Armstrong</actor>
+			<actor>Laura Morgan</actor>
+			<actor>Emma Fielding</actor>
+			<actor>Sam Hoare</actor>
+			<producer>Jake Lushington</producer>
+		</credits>
+		<date>20161107</date>
+		<category lang="en">Crime drama</category>
+		<category lang="en">Miniseries</category>
+		<episode-num system="dd_progid">EP02538723.0002</episode-num>
+		<episode-num system="xmltv_ns">0.1/2.</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20161107000000" />
+	</programme>
+	<programme start="20180425003000 +0000" stop="20180425021500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Agatha Christie's Poirot</title>
+		<sub-title lang="en">Murder in Mesopotamia</sub-title>
+		<desc lang="en">Poirot and his old friend Captain Hastings arrive at the headquarters of an archaeological dig in Mesopotamia where an Arab worker has recently been found strangled. Soon, a renowned archaeologist's wife is also found murdered and all those working on the dig are under suspicion.</desc>
+		<credits>
+			<director>Tom Clegg</director>
+			<actor>David Suchet</actor>
+			<actor>Hugh Fraser</actor>
+			<actor>Philip Jackson</actor>
+			<actor>Pauline Moran</actor>
+			<writer>Agatha Christie</writer>
+			<writer>Clive Exton</writer>
+			<producer>Brian Eastman</producer>
+			<producer>Delia Fine</producer>
+			<guest>Ron Berglas</guest>
+			<guest>Barbara Barnes</guest>
+		</credits>
+		<date>20010701</date>
+		<category lang="en">Mystery</category>
+		<category lang="en">Crime drama</category>
+		<category lang="en">Adventure</category>
+		<length units="seconds">6240</length>
+		<episode-num system="dd_progid">EP01258878.0015</episode-num>
+		<episode-num system="xmltv_ns">7.1/2.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20010701000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+			<value>12</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180425021500 +0000" stop="20180425031500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">The Grand</title>
+		<desc lang="en">Period drama series about a luxury hotel.</desc>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">SH01306137.0000</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="19971111000000" />
+	</programme>
+	<programme start="20180425031500 +0000" stop="20180425041500 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Robin of Sherwood</title>
+		<sub-title lang="en">Children of Israel</sub-title>
+		<desc lang="en">A Jewish merchant is owed a great deal of money by the Sheriff.</desc>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">EP02274490.0008</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown />
+	</programme>
+	<programme start="20180425041500 +0000" stop="20180425044000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">Outside Edge</title>
+		<sub-title lang="en">The Barbeque</sub-title>
+		<desc lang="en">Roger sets his sights on a fast bowler who has just moved into the area, Maggie gets her claws into Alex after he gives Kevin the brush-off, and Bob worries about how his first wife will react to Ginnie being pregnant.</desc>
+		<credits>
+			<director>Nick Hurran</director>
+			<actor>Brenda Blethyn</actor>
+			<actor>Robert Daws</actor>
+			<actor>Josie Lawrence</actor>
+			<actor>Timothy Spall</actor>
+			<actor>Michael Jayston</actor>
+			<actor>Dennis Lill</actor>
+			<actor>Christopher Lang</actor>
+			<actor>Tracy Brabin</actor>
+			<actor>Hilary Crane</actor>
+			<actor>Nigel Pegram</actor>
+			<actor>Rosemary Martin</actor>
+			<actor>Katy Landis</actor>
+			<producer>Paula Burdon</producer>
+			<producer>Paul Spencer</producer>
+		</credits>
+		<date>19950202</date>
+		<category lang="en">Sitcom</category>
+		<category lang="en">Comedy</category>
+		<episode-num system="dd_progid">EP02247643.0025</episode-num>
+		<episode-num system="xmltv_ns">1.4/7.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="19950202000000" />
+	</programme>
+	<programme start="20180425044000 +0000" stop="20180425050000 +0000" channel="I123.89887.schedulesdirect.org">
+		<title lang="en">ITV Encore Nightscreen</title>
+		<desc lang="en">Text-based information service.</desc>
+		<category lang="en">Entertainment</category>
+		<category lang="en">Special</category>
+		<episode-num system="dd_progid">SH02411802.0000</episode-num>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20160428000000" />
+	</programme>
+	<programme start="20180423033500 +0000" stop="20180423040000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">SIGN OFF</title>
+		<desc lang="en">Sign off.</desc>
+		<category lang="en">Special</category>
+		<episode-num system="dd_progid">SH00019112.0000</episode-num>
+		<previously-shown />
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
+		</rating>
+		<rating system="Film &amp; Publication Board">
+			<value>A</value>
+		</rating>
+	</programme>
+	<programme start="20180423040000 +0000" stop="20180423080000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Teleshopping</title>
+		<desc lang="en">Bringing the best in entertainment and teleshopping.</desc>
+		<category lang="en">Shopping</category>
+		<category lang="en">Talk</category>
+		<category lang="en">Special</category>
+		<episode-num system="dd_progid">SH01261329.0000</episode-num>
+		<previously-shown start="20020306000000" />
+	</programme>
+	<programme start="20180423080000 +0000" stop="20180423090000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Escape to the Chateau: DIY</title>
+		<desc lang="en">Mandy and Steve have decided to build a swimming pool at their chateau in the Dordogne. Michael invites Angel to do afternoon tea for the locals. Philip and Angelina go furniture shopping.</desc>
+		<date>20180416</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Home improvement</category>
+		<episode-num system="dd_progid">EP02928247.0006</episode-num>
+		<episode-num system="xmltv_ns">0.5/20.</episode-num>
+		<previously-shown start="20180416000000" />
+	</programme>
+	<programme start="20180423090000 +0000" stop="20180423093000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Four in a Bed</title>
+		<desc lang="en">The competition starts at The Shoes, Durham, where landlord Billy Gowland and partner Debbie Nelson hope their footwear-themed pub BandB is the right fit for their guests.</desc>
+		<credits>
+			<presenter>Mike Adams</presenter>
+		</credits>
+		<date>20170612</date>
+		<category lang="en">Reality</category>
+		<category lang="en">House/garden</category>
+		<episode-num system="dd_progid">EP01351800.0811</episode-num>
+		<previously-shown start="20170612000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20180423093000 +0000" stop="20180423100000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Come Dine with Me</title>
+		<sub-title lang="en">Warrington: Geoff</sub-title>
+		<desc lang="en">In Warrington, water feature builder and bad-joke-teller Geoff Carter is first to showcase his dinner party skills with an Asian-themed menu. His guests are Emma, perfectionist Stephen, country girl Alison, and Linda.</desc>
+		<credits>
+			<presenter>Dave Lamb</presenter>
+		</credits>
+		<date>20110919</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Cooking</category>
+		<episode-num system="dd_progid">EP01260095.1468</episode-num>
+		<previously-shown start="20110919000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180423100000 +0000" stop="20180423103000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Come Dine with Me</title>
+		<sub-title lang="en">Warrington: Stephen</sub-title>
+		<desc lang="en">Call centre manager Stephen Robinson asks his guests to arrive dressed appropriately for his pink and black theme, and his evening starts on a high, with his spicy butternut squash soup going down a treat, but things soon turn with the main course.</desc>
+		<credits>
+			<presenter>Dave Lamb</presenter>
+		</credits>
+		<date>20110920</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Cooking</category>
+		<episode-num system="dd_progid">EP01260095.1469</episode-num>
+		<previously-shown start="20110920000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180423103000 +0000" stop="20180423110000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Come Dine with Me</title>
+		<sub-title lang="en">Warrington: Alison</sub-title>
+		<desc lang="en">Beef farmer Alison Davies is serving Dyffd the cow, from her Hereford herd, as part of her menu. Alison decides to show her guests around the farm, but Stephen worries he'll get poo on his new espadrilles.</desc>
+		<credits>
+			<presenter>Dave Lamb</presenter>
+		</credits>
+		<date>20110921</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Cooking</category>
+		<episode-num system="dd_progid">EP01260095.1470</episode-num>
+		<previously-shown start="20110921000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180423110000 +0000" stop="20180423113000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Come Dine with Me</title>
+		<sub-title lang="en">Warrington: Emma</sub-title>
+		<desc lang="en">It is day four in Warrington and tonight's host is science teacher Emma Hoyle, who's hoping that her scientific approach to planning and attention to detail will help her take the top prize. Emma's pilli pilli prawn starter proves a hit with, and even the continuing conflicts between Linda and Stephen don't take away from the Emma's well-received chicken main course.</desc>
+		<credits>
+			<presenter>Dave Lamb</presenter>
+		</credits>
+		<date>20110922</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Cooking</category>
+		<episode-num system="dd_progid">EP01260095.0725</episode-num>
+		<previously-shown start="20110922000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180423113000 +0000" stop="20180423120000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Come Dine with Me</title>
+		<sub-title lang="en">Warrington: Linda</sub-title>
+		<desc lang="en">Linda Weaver puts on a fancy dress party with a multicultural theme on the final night in Warrington, but will this, along with her eclectic menu and her bagpipe playing skills, be enough to win the week?</desc>
+		<credits>
+			<presenter>Dave Lamb</presenter>
+		</credits>
+		<date>20110923</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Cooking</category>
+		<episode-num system="dd_progid">EP01260095.1471</episode-num>
+		<previously-shown start="20110923000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180423120000 +0000" stop="20180423130000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">A Place in the Sun: Winter Sun</title>
+		<sub-title lang="en">Costa Blanca, Spain</sub-title>
+		<desc lang="en">Laura Hamilton helps Michelle and Gary Cole from Birmingham find a holiday home on Spain's Costa Blanca for their £65,000 budget.</desc>
+		<credits>
+			<presenter>Jasmine Harman</presenter>
+			<presenter>Jonnie Irwin</presenter>
+			<presenter>Laura Hamilton</presenter>
+			<presenter>Sara Damergi</presenter>
+		</credits>
+		<date>20161128</date>
+		<category lang="en">House/garden</category>
+		<category lang="en">Travel</category>
+		<category lang="en">Reality</category>
+		<episode-num system="dd_progid">EP01526798.0136</episode-num>
+		<previously-shown start="20161128000000" />
+		<rating system="Australian Classification Board">
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20180423130000 +0000" stop="20180423140000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">A Place in the Sun: Winter Sun</title>
+		<sub-title lang="en">Tenerife</sub-title>
+		<desc lang="en">Steve and Cindy Head first visited south Tenerife 20 years ago and the fantastic climate has kept them coming back ever since. Now, after years of dreaming, they're looking for their own holiday home that they can share with their family.</desc>
+		<credits>
+			<presenter>Jasmine Harman</presenter>
+			<presenter>Jonnie Irwin</presenter>
+			<presenter>Laura Hamilton</presenter>
+			<presenter>Sara Damergi</presenter>
+		</credits>
+		<date>20161202</date>
+		<category lang="en">House/garden</category>
+		<category lang="en">Travel</category>
+		<category lang="en">Reality</category>
+		<episode-num system="dd_progid">EP01526798.0140</episode-num>
+		<previously-shown start="20161202000000" />
+		<rating system="Australian Classification Board">
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20180423140000 +0000" stop="20180423150000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Undercover Boss USA</title>
+		<sub-title lang="en">Cinnabon Inc.</sub-title>
+		<desc lang="en">Kat Cole, the President of Cinnabon Incorporated, which serves sweet treats from over 900 bakeries in 40 countries around the world, goes undercover among her own workforce.</desc>
+		<credits>
+			<producer>Stephen Lambert</producer>
+			<presenter>Mark Kellar</presenter>
+		</credits>
+		<date>20121116</date>
+		<category lang="en">Reality</category>
+		<episode-num system="dd_progid">EP01336291.0053</episode-num>
+		<episode-num system="xmltv_ns">3.2/17.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20121116000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="British Board of Film Classification">
+			<value>18</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180423150000 +0000" stop="20180423160000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Ramsay's Hotel Hell</title>
+		<sub-title lang="en">Four Seasons Inn</sub-title>
+		<desc lang="en">Gordon visits West Dover in Vermont to try to save a dog-friendly hotel that's desperately in need of help. Sandy MacDougall, the owner, runs the Four Seasons Inn.</desc>
+		<credits>
+			<actor>Gordon Ramsay</actor>
+			<producer>Gordon Ramsay</producer>
+			<producer>Adeline Ramage Rooney</producer>
+			<producer>Patricia Llewellyn</producer>
+			<producer>Ben Adler</producer>
+		</credits>
+		<date>20140825</date>
+		<category lang="en">Reality</category>
+		<length units="seconds">2640</length>
+		<episode-num system="dd_progid">EP01776874.0012</episode-num>
+		<episode-num system="xmltv_ns">1.5/8.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20140825000000" />
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>12</value>
+		</rating>
+		<rating system="The Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180423160000 +0000" stop="20180423170000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Ramsay's Hotel Hell</title>
+		<sub-title lang="en">Murphy's Hotel</sub-title>
+		<desc lang="en">Gordon Ramsay checks into Murphy's Historic Hotel near Sacramento in northern California, where owners Brian, Kevin and Joel are often too distracted by the party going on in the rowdy bar to look after their hotel.</desc>
+		<credits>
+			<actor>Gordon Ramsay</actor>
+			<producer>Gordon Ramsay</producer>
+			<producer>Adeline Ramage Rooney</producer>
+			<producer>Patricia Llewellyn</producer>
+			<producer>Ben Adler</producer>
+		</credits>
+		<date>20140909</date>
+		<category lang="en">Reality</category>
+		<length units="seconds">2640</length>
+		<episode-num system="dd_progid">EP01776874.0013</episode-num>
+		<episode-num system="xmltv_ns">1.7/8.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20140909000000" />
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>12</value>
+		</rating>
+		<rating system="Film &amp; Publication Board">
+			<value>16</value>
+		</rating>
+		<rating system="The Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180423170000 +0000" stop="20180423180000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Come Dine with Me</title>
+		<sub-title lang="en">All in One: High Wycombe</sub-title>
+		<desc lang="en">In High Wycombe, cartoonist David Leach competes with vicar Levi Santana, Noelle Thompson, and John White.</desc>
+		<credits>
+			<presenter>Dave Lamb</presenter>
+		</credits>
+		<date>20130919</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Cooking</category>
+		<episode-num system="dd_progid">EP01260095.1322</episode-num>
+		<previously-shown start="20130919000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180423180000 +0000" stop="20180423190000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Escape to the Chateau: DIY *</title>
+		<desc lang="en">Dick's at home building a compost toilet for guests to use at outside weddings. Also in the Pays de la Loire, twenty-something couple Billy and Gwendoline want to open their chateau as a wedding location, but it's not going to plan.</desc>
+		<date>20180423</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Home improvement</category>
+		<episode-num system="dd_progid">EP02928247.0011</episode-num>
+		<episode-num system="xmltv_ns">0.10/20.</episode-num>
+		<new />
+	</programme>
+	<programme start="20180423190000 +0000" stop="20180423200000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">The Supervet</title>
+		<sub-title lang="en">Ira, Tom and Marley</sub-title>
+		<desc lang="en">Ira, a two year-old Labrador is fitted with a bionic spine. Meanwhile, eight-year-old French Bulldog Tom has been brought in by his anxious owner Rob with a long list of chronic ailments.</desc>
+		<credits>
+			<actor>Noel Fitzpatrick</actor>
+		</credits>
+		<date>20141105</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Animals</category>
+		<episode-num system="dd_progid">EP01912840.0008</episode-num>
+		<episode-num system="xmltv_ns">1.3.</episode-num>
+		<previously-shown start="20141105000000" />
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180423200000 +0000" stop="20180423210000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">The Secret Life of the Zoo</title>
+		<desc lang="en">Orangutan sisters Emma and Subis are both expecting babies by male Puluh at the same time. Two-horned chameleon Ruby arrived at Chester after being transported illegally by pet traders. The zoo wants to breed her to help preserve the species.</desc>
+		<credits>
+			<actor>Tanya Winston</actor>
+			<producer>Nick Hornby</producer>
+			<producer>Alistair Pegg</producer>
+			<presenter>Olivia Colman</presenter>
+		</credits>
+		<date>20180418</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Animals</category>
+		<episode-num system="dd_progid">EP02353747.0030</episode-num>
+		<episode-num system="xmltv_ns">4.0.</episode-num>
+		<previously-shown start="20180418000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20180423210000 +0000" stop="20180423220500 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Gogglebox</title>
+		<desc lang="en">The biggest and best TV moments of the week, including "The Shining, Britain's Got Talent, Antiques Roadshow, The Queen's Green Planet, Buy It Now and The Yorkshire Vet', get a grilling from Britain"s sharpest armchair critics.</desc>
+		<credits>
+			<presenter>Craig Cash</presenter>
+		</credits>
+		<date>20180420</date>
+		<category lang="en">Entertainment</category>
+		<category lang="en">Comedy</category>
+		<episode-num system="dd_progid">EP01699074.0146</episode-num>
+		<episode-num system="xmltv_ns">10.8.</episode-num>
+		<previously-shown start="20180420000000" />
+		<rating system="Australian Classification Board">
+			<value>MA 15+</value>
+		</rating>
+	</programme>
+	<programme start="20180423220500 +0000" stop="20180423230500 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Gogglebox</title>
+		<desc lang="en">The biggest and best TV moments of the week get a grilling from Britain's sharpest armchair critics, including "Match of the Day, The Andrew Marr Show, Sex Robots and Us, The Sky at Night, Change Your Tune, Marcella and Made in Yorkshire".</desc>
+		<credits>
+			<presenter>Craig Cash</presenter>
+		</credits>
+		<date>20180413</date>
+		<category lang="en">Entertainment</category>
+		<category lang="en">Comedy</category>
+		<episode-num system="dd_progid">EP01699074.0145</episode-num>
+		<episode-num system="xmltv_ns">10.7.</episode-num>
+		<previously-shown start="20180413000000" />
+		<rating system="Australian Classification Board">
+			<value>MA 15+</value>
+		</rating>
+	</programme>
+	<programme start="20180423230500 +0000" stop="20180424001000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">The Island with Bear Grylls *</title>
+		<desc lang="en">After three weeks on the island, the castaways are malnourished. Still living at opposite ends of the same beach, the wealthy and less well-off teams finally put their differences aside in a joint hunting expedition.</desc>
+		<credits>
+			<producer>Bear Grylls</producer>
+			<producer>Ben Mitchell</producer>
+			<producer>Delbert Shoopman</producer>
+			<producer>Tim Whitwell</producer>
+			<presenter>Bear Grylls</presenter>
+		</credits>
+		<date>20180423</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Adventure</category>
+		<category lang="en">Outdoors</category>
+		<episode-num system="dd_progid">EP01912814.0041</episode-num>
+		<episode-num system="xmltv_ns">4.3.</episode-num>
+		<new />
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>14</value>
+		</rating>
+	</programme>
+	<programme start="20180424001000 +0000" stop="20180424010500 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">999: On the Frontline</title>
+		<desc lang="en">Paramedic Rob and student paramedic Ally are called to a custody suite in Birmingham to deal with a prisoner who is aggressive and abusive but may have overdosed on heroin.</desc>
+		<credits>
+			<producer>Rob Carey</producer>
+			<producer>Claire Simpson</producer>
+			<presenter>Paul Bown</presenter>
+		</credits>
+		<date>20171018</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Medical</category>
+		<episode-num system="dd_progid">EP02771247.0006</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<previously-shown start="20171018000000" />
+	</programme>
+	<programme start="20180424010500 +0000" stop="20180424020500 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Homeland *</title>
+		<sub-title lang="en">Clarity</sub-title>
+		<desc lang="en">Saul and Sandy have an idea. Carrie needs to choose a side. Keane needs an ally.</desc>
+		<credits>
+			<director>Lesli Linka Glatter</director>
+			<actor>Claire Danes</actor>
+			<actor>Mandy Patinkin</actor>
+			<actor>Morgan Spector</actor>
+			<actor>Elizabeth Marvel</actor>
+			<actor>Linus Roache</actor>
+			<actor>Maury Sterling</actor>
+			<actor>Jake Weber</actor>
+			<writer>Howard Gordon</writer>
+			<writer>Alex Gansa</writer>
+			<writer>Gideon Raff</writer>
+			<producer>Alex Gansa</producer>
+			<producer>Claire Danes</producer>
+		</credits>
+		<date>20180415</date>
+		<category lang="en">Suspense</category>
+		<category lang="en">Drama</category>
+		<episode-num system="dd_progid">EP01513049.0086</episode-num>
+		<episode-num system="xmltv_ns">6.9/12.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<new />
+		<rating system="Australian Classification Board">
+			<value>MA 15+</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>18+</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>16</value>
+		</rating>
+		<rating system="Instituto de Cinematografía y de las Artes Visuales">
+			<value>12</value>
+		</rating>
+		<rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+			<value>K16</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>18+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVMA</value>
+		</rating>
+		<rating system="advisory">
+			<value>Adult Situations</value>
+		</rating>
+		<rating system="advisory">
+			<value>Graphic Language</value>
+		</rating>
+		<rating system="advisory">
+			<value>Violence</value>
+		</rating>
+	</programme>
+	<programme start="20180424020500 +0000" stop="20180424030000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Escape to the Chateau</title>
+		<sub-title lang="en">Moat, Pineapple Chandeliers and a Wedding</sub-title>
+		<desc lang="en">Dick Strawbridge and Angel Adoree are due to marry in just a few weeks' time, but the chateau is nowhere near ready. Dick oversees the damming of the huge moat and the installation of an eco-friendly sewage system.</desc>
+		<credits>
+			<actor>Dick Strawbridge</actor>
+		</credits>
+		<date>20160619</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Home improvement</category>
+		<episode-num system="dd_progid">EP02438379.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<previously-shown start="20160619000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20180424030000 +0000" stop="20180424032500 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Four in a Bed</title>
+		<desc lang="en">In Stratford upon Avon at The Water's Edge Guest House, owner Julie Allison and friend Gerry Crabtree hope their luxurious approach and themed rooms will win the day.</desc>
+		<credits>
+			<presenter>Mike Adams</presenter>
+		</credits>
+		<date>20170619</date>
+		<category lang="en">Reality</category>
+		<category lang="en">House/garden</category>
+		<episode-num system="dd_progid">EP01351800.0816</episode-num>
+		<previously-shown start="20170619000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20180424032500 +0000" stop="20180424035500 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Buy It Now *</title>
+		<desc lang="en">Twin entrepreneurs Ben and Gary from York demonstrate their leisure product, complete with palm trees. Sylvain and his daughter fly in from Canada to showcase their gadget for travellers.</desc>
+		<credits>
+			<presenter>Brian Conley</presenter>
+		</credits>
+		<date>20180423</date>
+		<category lang="en">Reality</category>
+		<episode-num system="dd_progid">EP02939469.0006</episode-num>
+		<episode-num system="xmltv_ns">0.5.</episode-num>
+		<new />
+	</programme>
+	<programme start="20180424035500 +0000" stop="20180424040000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">SIGN OFF</title>
+		<desc lang="en">Sign off.</desc>
+		<category lang="en">Special</category>
+		<episode-num system="dd_progid">SH00019112.0000</episode-num>
+		<previously-shown />
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
+		</rating>
+		<rating system="Film &amp; Publication Board">
+			<value>A</value>
+		</rating>
+	</programme>
+	<programme start="20180424040000 +0000" stop="20180424080000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Teleshopping</title>
+		<desc lang="en">Bringing the best in entertainment and teleshopping.</desc>
+		<category lang="en">Shopping</category>
+		<category lang="en">Talk</category>
+		<category lang="en">Special</category>
+		<episode-num system="dd_progid">SH01261329.0000</episode-num>
+		<previously-shown start="20020306000000" />
+	</programme>
+	<programme start="20180424080000 +0000" stop="20180424090000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Escape to the Chateau: DIY</title>
+		<desc lang="en">As Jonathan and Michael prepare their chateau for the big wedding, they have a sewage issue that threatens the whole first floor. Mandy and Steve continue to have pool problems.</desc>
+		<date>20180417</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Home improvement</category>
+		<episode-num system="dd_progid">EP02928247.0007</episode-num>
+		<episode-num system="xmltv_ns">0.6/20.</episode-num>
+		<previously-shown start="20180417000000" />
+	</programme>
+	<programme start="20180424090000 +0000" stop="20180424093000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Four in a Bed</title>
+		<desc lang="en">The second visit is to Biggin Hall Hotel in Derbyshire, where owner James Moffat and partner Annie Larner hope the BandBers will fall for the rural charm of their 17th-century farmhouse.</desc>
+		<credits>
+			<presenter>Mike Adams</presenter>
+		</credits>
+		<date>20170613</date>
+		<category lang="en">Reality</category>
+		<category lang="en">House/garden</category>
+		<episode-num system="dd_progid">EP01351800.0812</episode-num>
+		<previously-shown start="20170613000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20180424093000 +0000" stop="20180424100000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Come Dine with Me</title>
+		<sub-title lang="en">Wolverhampton: Niru</sub-title>
+		<desc lang="en">The first to host in Wolverhampton is housing officer Niru Ghai-Read, who's confident her Indian menu and bombardment of entertainment will scoop the prize.</desc>
+		<credits>
+			<presenter>Dave Lamb</presenter>
+		</credits>
+		<date>20110905</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Cooking</category>
+		<episode-num system="dd_progid">EP01260095.0711</episode-num>
+		<episode-num system="xmltv_ns">23.5/70.</episode-num>
+		<previously-shown start="20110905000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180424100000 +0000" stop="20180424103000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Come Dine with Me</title>
+		<sub-title lang="en">Wolverhampton: Stefano</sub-title>
+		<desc lang="en">It's the turn of Stefano Scaringi to try to wow his guests in Wolverhampton. The restaurant manager has more than food on his mind however as he plans to curry favour with May Dudley. His preparation goes like clockwork - until dessert, when an unexpected drama causes kitchen chaos. Later Kyle goes from chilled-out hippy to raging bull.</desc>
+		<credits>
+			<presenter>Dave Lamb</presenter>
+		</credits>
+		<date>20110906</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Cooking</category>
+		<episode-num system="dd_progid">EP01260095.0712</episode-num>
+		<episode-num system="xmltv_ns">23.6/70.</episode-num>
+		<previously-shown start="20110906000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180424103000 +0000" stop="20180424110000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Come Dine with Me</title>
+		<sub-title lang="en">Wolverhampton: Bally</sub-title>
+		<desc lang="en">It's the third day of the competition in Wolverhampton and fun-loving Bally Singh is hoping a "student night' can scoop him the prize, but his starter of beans on toast leaves Bally"s guests gobsmacked.</desc>
+		<credits>
+			<presenter>Dave Lamb</presenter>
+		</credits>
+		<date>20110907</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Cooking</category>
+		<category lang="en">Game show</category>
+		<episode-num system="dd_progid">EP01260095.0713</episode-num>
+		<episode-num system="xmltv_ns">23.7/70.</episode-num>
+		<previously-shown start="20110907000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180424110000 +0000" stop="20180424113000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Come Dine with Me</title>
+		<sub-title lang="en">Wolverhampton: Kyle</sub-title>
+		<desc lang="en">In Wolverhampton, it's the turn of IT worker and self-confessed hippy Kyle Ferguson to cook. Kyle has spoken his mind throughout the week but now it's his turn to prove himself in the kitchen, but is he just too laid back to pull off his Wolverhampton inspired menu? Some great entertainment gets Bally and Niru moving, but the big question remains: will smooth Stefano eventually win points with model May?</desc>
+		<credits>
+			<presenter>Dave Lamb</presenter>
+		</credits>
+		<date>20110908</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Cooking</category>
+		<episode-num system="dd_progid">EP01260095.0714</episode-num>
+		<episode-num system="xmltv_ns">23.8/70.</episode-num>
+		<previously-shown start="20110908000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180424113000 +0000" stop="20180424120000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Come Dine with Me</title>
+		<sub-title lang="en">Wolverhampton: May</sub-title>
+		<desc lang="en">The final day of the competition in Wolverhampton sees model May Dudley rely on a "mum-knows-best" approach. A self-confessed culinary novice, May has left the menu planning to her mother.</desc>
+		<credits>
+			<presenter>Dave Lamb</presenter>
+		</credits>
+		<date>20110909</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Cooking</category>
+		<category lang="en">Game show</category>
+		<episode-num system="dd_progid">EP01260095.0715</episode-num>
+		<episode-num system="xmltv_ns">23.9/70.</episode-num>
+		<previously-shown start="20110909000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180424120000 +0000" stop="20180424130000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">A Place in the Sun: Winter Sun</title>
+		<desc lang="en">Musical couple Paul and Judith Corazzo from Dorset have been dreaming of buying a holiday home in sunny Spain. For their budget of £140,000 Jasmine Harman shows them five fantastic properties.</desc>
+		<credits>
+			<presenter>Jasmine Harman</presenter>
+			<presenter>Jonnie Irwin</presenter>
+			<presenter>Laura Hamilton</presenter>
+			<presenter>Sara Damergi</presenter>
+		</credits>
+		<date>20161130</date>
+		<category lang="en">House/garden</category>
+		<category lang="en">Travel</category>
+		<category lang="en">Reality</category>
+		<episode-num system="dd_progid">EP01526798.0138</episode-num>
+		<previously-shown start="20161130000000" />
+		<rating system="Australian Classification Board">
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20180424130000 +0000" stop="20180424140000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">A Place in the Sun: Home or Away</title>
+		<sub-title lang="en">Teignmouth vs Costa del Sol</sub-title>
+		<desc lang="en">After a long-term relationship came to an end and her son flew the nest, Alix Sinclare sold her family home in Devon, and is now looking for the perfect place to start a new life but can't decide between Teignmouth and Nerja on Spain's Costa del Sol.</desc>
+		<credits>
+			<director>Helen White</director>
+			<presenter>Jasmine Harman</presenter>
+			<presenter>Jonnie Irwin</presenter>
+		</credits>
+		<date>20160929</date>
+		<category lang="en">Reality</category>
+		<category lang="en">House/garden</category>
+		<category lang="en">Travel</category>
+		<episode-num system="dd_progid">EP01265363.0341</episode-num>
+		<previously-shown start="20160929000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180424140000 +0000" stop="20180424150000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Undercover Boss USA</title>
+		<sub-title lang="en">Diamond Resorts International</sub-title>
+		<desc lang="en">Stephen J Cloobeck, the Chairman and CEO of Diamond Resorts International, is going undercover as a man pursuing his dream job in the hospitality industry.</desc>
+		<credits>
+			<producer>Stephen Lambert</producer>
+			<presenter>Mark Kellar</presenter>
+		</credits>
+		<date>20120115</date>
+		<category lang="en">Reality</category>
+		<length units="seconds">2640</length>
+		<episode-num system="dd_progid">EP01336291.0039</episode-num>
+		<episode-num system="xmltv_ns">2.0/13.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20120115000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180424150000 +0000" stop="20180424160000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Ramsay's Hotel Hell</title>
+		<sub-title lang="en">Murphy's Hotel</sub-title>
+		<desc lang="en">Gordon Ramsay checks into Murphy's Historic Hotel near Sacramento in northern California, where owners Brian, Kevin and Joel are often too distracted by the party going on in the rowdy bar to look after their hotel.</desc>
+		<credits>
+			<actor>Gordon Ramsay</actor>
+			<producer>Gordon Ramsay</producer>
+			<producer>Adeline Ramage Rooney</producer>
+			<producer>Patricia Llewellyn</producer>
+			<producer>Ben Adler</producer>
+		</credits>
+		<date>20140909</date>
+		<category lang="en">Reality</category>
+		<length units="seconds">2640</length>
+		<episode-num system="dd_progid">EP01776874.0013</episode-num>
+		<episode-num system="xmltv_ns">1.7/8.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20140909000000" />
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>12</value>
+		</rating>
+		<rating system="Film &amp; Publication Board">
+			<value>16</value>
+		</rating>
+		<rating system="The Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180424160000 +0000" stop="20180424170000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Ramsay's Hotel Hell</title>
+		<sub-title lang="en">Curtis House</sub-title>
+		<desc lang="en">Gordon checks into Connecticut's oldest inn, the Curtis House in Woodbury. This historic inn has been owned by the Hardisty family for generations, but the business has started to fall apart and their legacy is on the brink of being lost.</desc>
+		<credits>
+			<actor>Gordon Ramsay</actor>
+			<producer>Gordon Ramsay</producer>
+			<producer>Adeline Ramage Rooney</producer>
+			<producer>Patricia Llewellyn</producer>
+			<producer>Ben Adler</producer>
+		</credits>
+		<date>20140901</date>
+		<category lang="en">Reality</category>
+		<length units="seconds">2640</length>
+		<episode-num system="dd_progid">EP01776874.0014</episode-num>
+		<episode-num system="xmltv_ns">1.6/8.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20140901000000" />
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>12</value>
+		</rating>
+		<rating system="The Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180424170000 +0000" stop="20180424180000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Come Dine with Me</title>
+		<sub-title lang="en">All in One: Loughborough</sub-title>
+		<desc lang="en">In Loughborough, doctor of psychology Cheryl Travers competes with estate agent John Jesson, hotel manager Martino Ercolani, and the dress-loving Fliss Healey.</desc>
+		<credits>
+			<presenter>Dave Lamb</presenter>
+		</credits>
+		<date>20130923</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Cooking</category>
+		<episode-num system="dd_progid">EP01260095.1331</episode-num>
+		<previously-shown start="20130923000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180424180000 +0000" stop="20180424190000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Escape to the Chateau: DIY *</title>
+		<desc lang="en">Billy, Gwendoline and Michael locate their heating problem but it means Billy faces the tricky task of repointing the chimney 20 metres up - despite being scared of heights.</desc>
+		<date>20180424</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Home improvement</category>
+		<episode-num system="dd_progid">EP02928247.0012</episode-num>
+		<episode-num system="xmltv_ns">0.11/20.</episode-num>
+		<new />
+	</programme>
+	<programme start="20180424190000 +0000" stop="20180424200000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Escape to the Chateau</title>
+		<sub-title lang="en">Moat, Pineapple Chandeliers and a Wedding</sub-title>
+		<desc lang="en">Dick Strawbridge and Angel Adoree are due to marry in just a few weeks' time, but the chateau is nowhere near ready. Dick oversees the damming of the huge moat and the installation of an eco-friendly sewage system.</desc>
+		<credits>
+			<actor>Dick Strawbridge</actor>
+		</credits>
+		<date>20160619</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Home improvement</category>
+		<episode-num system="dd_progid">EP02438379.0003</episode-num>
+		<episode-num system="xmltv_ns">0.2.</episode-num>
+		<previously-shown start="20160619000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20180424200000 +0000" stop="20180424210000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">999: What's Your Emergency?</title>
+		<desc lang="en">Wiltshire's police officers deal with young men driving dangerously and tackle the resurgence of joyriding. PC Nick Finning is dispatched in search of a "pool car' that"s being driven at breakneck speed around residential streets.</desc>
+		<credits>
+			<director>Greg Lander Williams</director>
+			<director>Toby Trackman</director>
+			<actor>Hugo Speer</actor>
+			<actor>Julian Barratt</actor>
+			<producer>Shauna Keogh.</producer>
+		</credits>
+		<date>20180419</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Crime</category>
+		<category lang="en">Health</category>
+		<episode-num system="dd_progid">EP01611324.0045</episode-num>
+		<episode-num system="xmltv_ns">5.0.</episode-num>
+		<previously-shown start="20180419000000" />
+	</programme>
+	<programme start="20180424210000 +0000" stop="20180424230500 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Dirty Grandpa *</title>
+		<desc lang="en">Right before his wedding, an uptight guy is tricked into driving his grandfather, a perverted former army general, to Florida for spring break.</desc>
+		<credits>
+			<director>Dan Mazer</director>
+			<actor>Robert De Niro</actor>
+			<actor>Zac Efron</actor>
+			<actor>Aubrey Plaza</actor>
+			<actor>Zoey Deutch</actor>
+			<actor>Jason Mantzoukas</actor>
+			<actor>Dermot Mulroney</actor>
+			<actor>Julianne Hough</actor>
+			<actor>Danny Glover</actor>
+			<actor>Adam Pally</actor>
+			<actor>Jeffrey Bowyer-Chapman</actor>
+			<actor>John Phillips</actor>
+			<actor>Eric Alan Edwards</actor>
+			<actor>Anne McCabe</actor>
+			<actor>Michael Andrews</actor>
+			<actor>William Arnold</actor>
+			<actor>Jeremy Woolsey</actor>
+			<actor>David Smith</actor>
+			<actor>Christie Wittenborn</actor>
+			<actor>Amanda Mackey</actor>
+			<actor>Cathy Sandrich Gelfond</actor>
+			<actor>Chris LeDoux</actor>
+			<producer>Jason Barrett</producer>
+			<producer>Bill Block</producer>
+			<producer>Barry Josephson</producer>
+			<producer>Michael Simkin</producer>
+			<producer>Michael Flynn</producer>
+			<producer>John Friedberg</producer>
+			<producer>Anton Lessine</producer>
+			<producer>Sasha Shapiro</producer>
+		</credits>
+		<date>2016</date>
+		<category lang="en">Movie</category>
+		<category lang="en">Comedy</category>
+		<length units="seconds">6120</length>
+		<episode-num system="dd_progid">MV00797216.0000</episode-num>
+		<new />
+		<rating system="Alberta&apos;s Film Classification Board">
+			<value>14A</value>
+		</rating>
+		<rating system="Australian Classification Board">
+			<value>MA 15+</value>
+		</rating>
+		<rating system="B.C. Film Classification Office">
+			<value>14A</value>
+		</rating>
+		<rating system="British Board of Film Classification">
+			<value>15</value>
+		</rating>
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>16</value>
+		</rating>
+		<rating system="Film &amp; Publication Board">
+			<value>18</value>
+		</rating>
+		<rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+			<value>12</value>
+		</rating>
+		<rating system="Manitoba Film Classification Board">
+			<value>14A</value>
+		</rating>
+		<rating system="Motion Picture Association of America">
+			<value>R</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>13+</value>
+		</rating>
+		<rating system="Saskatchewan Film and Video Classification Board">
+			<value>14A</value>
+		</rating>
+		<rating system="UK Content Provider">
+			<value>15</value>
+		</rating>
+		<rating system="advisory">
+			<value>Adult Language</value>
+		</rating>
+		<rating system="advisory">
+			<value>Adult Situations</value>
+		</rating>
+		<rating system="advisory">
+			<value>Nudity</value>
+		</rating>
+		<rating system="advisory">
+			<value>Strong Sexual Content</value>
+		</rating>
+		<star-rating>
+			<value>1.5/4</value>
+		</star-rating>
+	</programme>
+	<programme start="20180424230500 +0000" stop="20180425000500 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Gogglebox</title>
+		<desc lang="en">The biggest and best TV moments of the week, including "The Shining, Britain's Got Talent, Antiques Roadshow, The Queen's Green Planet, Buy It Now and The Yorkshire Vet', get a grilling from Britain"s sharpest armchair critics.</desc>
+		<credits>
+			<presenter>Craig Cash</presenter>
+		</credits>
+		<date>20180420</date>
+		<category lang="en">Entertainment</category>
+		<category lang="en">Comedy</category>
+		<episode-num system="dd_progid">EP01699074.0146</episode-num>
+		<episode-num system="xmltv_ns">10.8.</episode-num>
+		<previously-shown start="20180420000000" />
+		<rating system="Australian Classification Board">
+			<value>MA 15+</value>
+		</rating>
+	</programme>
+	<programme start="20180425000500 +0000" stop="20180425010000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Gogglebox</title>
+		<desc lang="en">The biggest and best TV moments of the week get a grilling from Britain's sharpest armchair critics, including "Match of the Day, The Andrew Marr Show, Sex Robots and Us, The Sky at Night, Change Your Tune, Marcella and Made in Yorkshire".</desc>
+		<credits>
+			<presenter>Craig Cash</presenter>
+		</credits>
+		<date>20180413</date>
+		<category lang="en">Entertainment</category>
+		<category lang="en">Comedy</category>
+		<episode-num system="dd_progid">EP01699074.0145</episode-num>
+		<episode-num system="xmltv_ns">10.7.</episode-num>
+		<previously-shown start="20180413000000" />
+		<rating system="Australian Classification Board">
+			<value>MA 15+</value>
+		</rating>
+	</programme>
+	<programme start="20180425010000 +0000" stop="20180425015500 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Fatberg Autopsy: Secrets of the Sewers *</title>
+		<desc lang="en">Presenter and science enthusiast Rick Edwards joins a team of scientists and sewer workers to perform the first ever fatberg autopsy - taken from one of the biggest blockages ever found in the UK.</desc>
+		<category lang="en">Documentary</category>
+		<category lang="en">Special</category>
+		<episode-num system="dd_progid">SH02946215.0000</episode-num>
+		<new />
+	</programme>
+	<programme start="20180425015500 +0000" stop="20180425024500 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">The World's Most Luxurious Airline</title>
+		<desc lang="en">A look behind the scenes as Singapore Airlines bid to create a whole new level of opulence and luxury for their first class travellers - proving that the sky really isn't the limit at all.</desc>
+		<category lang="en">Documentary</category>
+		<category lang="en">Special</category>
+		<episode-num system="dd_progid">SH02891690.0000</episode-num>
+		<previously-shown start="20180212000000" />
+	</programme>
+	<programme start="20180425024500 +0000" stop="20180425031500 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Four in a Bed</title>
+		<desc lang="en">The second visit is to the Kilpeck Inn in Herefordshire where head chef Ross Williams and front of house manager Kath Capel consider no detail too small.</desc>
+		<credits>
+			<presenter>Mike Adams</presenter>
+		</credits>
+		<date>20170620</date>
+		<category lang="en">Reality</category>
+		<category lang="en">House/garden</category>
+		<episode-num system="dd_progid">EP01351800.0817</episode-num>
+		<previously-shown start="20170620000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+	</programme>
+	<programme start="20180425031500 +0000" stop="20180425034500 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Buy It Now *</title>
+		<desc lang="en">Steve and Sue from Somerset demonstrate their product to help kids during car journeys. Tim from Dorset has a pocket-sized product for male grooming.</desc>
+		<credits>
+			<presenter>Brian Conley</presenter>
+		</credits>
+		<date>20180424</date>
+		<category lang="en">Reality</category>
+		<episode-num system="dd_progid">EP02939469.0007</episode-num>
+		<episode-num system="xmltv_ns">0.6.</episode-num>
+		<new />
+	</programme>
+	<programme start="20180425034500 +0000" stop="20180425040000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">SIGN OFF</title>
+		<desc lang="en">Sign off.</desc>
+		<category lang="en">Special</category>
+		<episode-num system="dd_progid">SH00019112.0000</episode-num>
+		<previously-shown />
+		<rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+			<value>L</value>
+		</rating>
+		<rating system="Film &amp; Publication Board">
+			<value>A</value>
+		</rating>
+	</programme>
+	<programme start="20180425040000 +0000" stop="20180425080000 +0000" channel="I4 Seven.75804.schedulesdirect.org">
+		<title lang="en">Teleshopping</title>
+		<desc lang="en">Bringing the best in entertainment and teleshopping.</desc>
+		<category lang="en">Shopping</category>
+		<category lang="en">Talk</category>
+		<category lang="en">Special</category>
+		<episode-num system="dd_progid">SH01261329.0000</episode-num>
+		<previously-shown start="20020306000000" />
+	</programme>
+	<programme start="20180423035000 +0000" stop="20180423041500 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Pound Shop Wars</title>
+		<sub-title lang="en">Too Posh to Pound Shop?</sub-title>
+		<desc lang="en">Chris fights to win customers who traditionally, wouldn't be seen dead in a pound shop - the middle classes. He also tries to make pound shop history by becoming the first to go online.</desc>
+		<credits>
+			<presenter>Caroline Aherne</presenter>
+		</credits>
+		<date>20140227</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Reality</category>
+		<category lang="en">Bus./financial</category>
+		<episode-num system="dd_progid">EP01637875.0005</episode-num>
+		<episode-num system="xmltv_ns">0.3.</episode-num>
+		<previously-shown start="20140227000000" />
+	</programme>
+	<programme start="20180423041500 +0000" stop="20180423050000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">DIY SOS</title>
+		<sub-title lang="en">Crawley</sub-title>
+		<desc lang="en">The team are in Crawley to help two brothers renovate their kitchen/diner. Daniel and Adam spent their last pennies buying their first house and two years later the boys have still not moved in, despite attempting to renovate and spending the last of their money on a flat-pack kitchen which has already started to fall apart. The boys are at a loss and unable to progress. Plus, three more families hoping for a rescue next time.</desc>
+		<credits>
+			<actor>Julian Perryman</actor>
+			<actor>Chris Frediani</actor>
+			<actor>Mark Millar</actor>
+			<actor>Billy Byrne</actor>
+			<actor>Mat Skelton</actor>
+			<actor>Julia Kendell</actor>
+			<producer>Simon Knight</producer>
+			<presenter>Nick Knowles</presenter>
+		</credits>
+		<date>20061129</date>
+		<category lang="en">Arts/crafts</category>
+		<category lang="en">Home improvement</category>
+		<category lang="en">House/garden</category>
+		<category lang="en">How-to</category>
+		<episode-num system="dd_progid">EP01402641.0017</episode-num>
+		<episode-num system="xmltv_ns">13.2.</episode-num>
+		<previously-shown start="20061129000000" />
+	</programme>
+	<programme start="20180423050000 +0000" stop="20180423060000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Homes Under the Hammer</title>
+		<desc lang="en">Martin Roberts and Lucy Alexander are in London, the south coast and the Welsh valleys looking around three very different properties that were sold at auction: a three-storey house, a beautiful Georgian town house, and a modest maisonette.</desc>
+		<credits>
+			<actor>Putul Verma</actor>
+			<producer>Lisa Hazlehurst</producer>
+			<presenter>Martin Roberts</presenter>
+			<presenter>Lucy Alexander</presenter>
+		</credits>
+		<date>20140715</date>
+		<category lang="en">House/garden</category>
+		<category lang="en">Home improvement</category>
+		<episode-num system="dd_progid">EP01259822.0776</episode-num>
+		<episode-num system="xmltv_ns">17.22.</episode-num>
+		<previously-shown start="20140715000000" />
+		<rating system="Australian Classification Board">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180423060000 +0000" stop="20180423070000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Teleshopping</title>
+		<desc lang="en">Bringing the best in entertainment and teleshopping.</desc>
+		<category lang="en">Shopping</category>
+		<category lang="en">Talk</category>
+		<category lang="en">Special</category>
+		<episode-num system="dd_progid">SH01261329.0000</episode-num>
+		<previously-shown start="20020306000000" />
+	</programme>
+	<programme start="20180423070000 +0000" stop="20180423080000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Escape to the Country</title>
+		<sub-title lang="en">Devon</sub-title>
+		<desc lang="en">Jonnie Irwin's house hunt gathers pace as he helps a novelist mother and her horse-loving daughter find a charming equestrian home for £620,000 in the Devon countryside. Plus, Jonnie learns why cob forms the building blocks of Devon's architecture, and how the use of this natural material is far from mud in the 21st century.</desc>
+		<credits>
+			<presenter>Jules Hudson</presenter>
+			<presenter>Alistair Appleton</presenter>
+			<presenter>Denise Nurse</presenter>
+			<presenter>Tim Vincent</presenter>
+			<presenter>Nicki Chapman</presenter>
+			<presenter>Jonnie Irwin</presenter>
+		</credits>
+		<date>20130528</date>
+		<category lang="en">House/garden</category>
+		<category lang="en">Home improvement</category>
+		<category lang="en">Bus./financial</category>
+		<episode-num system="dd_progid">EP01259550.0670</episode-num>
+		<episode-num system="xmltv_ns">12.74/75.</episode-num>
+		<previously-shown start="20130528000000" />
+		<rating system="Australian Classification Board">
+			<value>G</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180423080000 +0000" stop="20180423090000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Celebrity Fantasy Homes</title>
+		<sub-title lang="en">Victoria Hervey</sub-title>
+		<desc lang="en">Socialite Lady Victoria Hervey chats about life in LA as Gaby Roslin helps her to find the perfect country retreat near Windsor in Berkshire.</desc>
+		<date>20090506</date>
+		<category lang="en">Bus./financial</category>
+		<category lang="en">House/garden</category>
+		<episode-num system="dd_progid">EP01300042.0006</episode-num>
+		<previously-shown start="20090506000000" />
+	</programme>
+	<programme start="20180423090000 +0000" stop="20180423100000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">The Sheriffs Are Coming</title>
+		<desc lang="en">We meet the family that paid £2,700 for a car from a secondhand car dealer but which they say was dangerous. The Sheriffs are forced to call in tow trucks to pay off the debt, but the debtor isn't taking things lying down.</desc>
+		<credits>
+			<presenter>David Reed</presenter>
+		</credits>
+		<date>20150413</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Crime</category>
+		<episode-num system="dd_progid">EP01543149.0067</episode-num>
+		<previously-shown start="20150413000000" />
+	</programme>
+	<programme start="20180423100000 +0000" stop="20180423110000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Helicopter Heroes</title>
+		<desc lang="en">A worker puts his first aid skills into practice after a colleague collapses with a heart attack, and a boy on a bike is badly hurt in the forests of North Yorkshire.</desc>
+		<date>20131220</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Educational</category>
+		<episode-num system="dd_progid">EP01323926.0133</episode-num>
+		<episode-num system="xmltv_ns">6.9.</episode-num>
+		<previously-shown start="20131220000000" />
+	</programme>
+	<programme start="20180423110000 +0000" stop="20180423120000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Antiques Road Trip</title>
+		<desc lang="en">It's the first day of the week for antiques experts Charlie Ross and James Braxton. Their adventures start in the Highlands of Scotland in a small town called Cromarty, and end in Buckie for an auction showdown.</desc>
+		<credits>
+			<presenter>Tim Wonnacott</presenter>
+		</credits>
+		<date>20120319</date>
+		<category lang="en">Collectibles</category>
+		<category lang="en">Art</category>
+		<episode-num system="dd_progid">EP01302690.0114</episode-num>
+		<episode-num system="xmltv_ns">3.25.</episode-num>
+		<previously-shown start="20120319000000" />
+		<rating system="Australian Classification Board">
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20180423120000 +0000" stop="20180423130000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Escape to the Country</title>
+		<sub-title lang="en">Devon</sub-title>
+		<desc lang="en">Jonnie Irwin's house hunt gathers pace as he helps a novelist mother and her horse-loving daughter find a charming equestrian home for £620,000 in the Devon countryside. Plus, Jonnie learns why cob forms the building blocks of Devon's architecture, and how the use of this natural material is far from mud in the 21st century.</desc>
+		<credits>
+			<presenter>Jules Hudson</presenter>
+			<presenter>Alistair Appleton</presenter>
+			<presenter>Denise Nurse</presenter>
+			<presenter>Tim Vincent</presenter>
+			<presenter>Nicki Chapman</presenter>
+			<presenter>Jonnie Irwin</presenter>
+		</credits>
+		<date>20130528</date>
+		<category lang="en">House/garden</category>
+		<category lang="en">Home improvement</category>
+		<category lang="en">Bus./financial</category>
+		<episode-num system="dd_progid">EP01259550.0670</episode-num>
+		<episode-num system="xmltv_ns">12.74/75.</episode-num>
+		<previously-shown start="20130528000000" />
+		<rating system="Australian Classification Board">
+			<value>G</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180423130000 +0000" stop="20180423140000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Celebrity Fantasy Homes</title>
+		<sub-title lang="en">Victoria Hervey</sub-title>
+		<desc lang="en">Socialite Lady Victoria Hervey chats about life in LA as Gaby Roslin helps her to find the perfect country retreat near Windsor in Berkshire.</desc>
+		<date>20090506</date>
+		<category lang="en">Bus./financial</category>
+		<category lang="en">House/garden</category>
+		<episode-num system="dd_progid">EP01300042.0006</episode-num>
+		<previously-shown start="20090506000000" />
+	</programme>
+	<programme start="20180423140000 +0000" stop="20180423150000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Helicopter Heroes</title>
+		<desc lang="en">A worker puts his first aid skills into practice after a colleague collapses with a heart attack, and a boy on a bike is badly hurt in the forests of North Yorkshire.</desc>
+		<date>20131220</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Educational</category>
+		<episode-num system="dd_progid">EP01323926.0133</episode-num>
+		<episode-num system="xmltv_ns">6.9.</episode-num>
+		<previously-shown start="20131220000000" />
+	</programme>
+	<programme start="20180423150000 +0000" stop="20180423160000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Most Haunted</title>
+		<sub-title lang="en">30 East Drive Part 2</sub-title>
+		<desc lang="en">Eerie explorations with Yvette Fielding. Things get physical as the team continue to investigate Yorkshire's 30 East Drive, home to The Black Monk of Pontefract.</desc>
+		<credits>
+			<producer>Yvette Fielding</producer>
+			<presenter>Yvette Fielding</presenter>
+			<presenter>Chris Conway</presenter>
+			<presenter>Ciarán O'Keeffe</presenter>
+		</credits>
+		<date>20151025</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Paranormal</category>
+		<category lang="en">Documentary</category>
+		<episode-num system="dd_progid">EP01274072.0266</episode-num>
+		<episode-num system="xmltv_ns">16.1.</episode-num>
+		<previously-shown start="20151025000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180423160000 +0000" stop="20180423170000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Ghost Adventures</title>
+		<sub-title lang="en">La Purisima Mission</sub-title>
+		<desc lang="en">The Ghost Adventures crew investigates the La Purisima Mission in Lompoc, California. The former Spanish residence is beautiful, but the air around it is heavy with the tragedy of disease and war. Spirits still linger there.</desc>
+		<credits>
+			<actor>Zak Bagans</actor>
+			<actor>Nick Groff</actor>
+			<actor>Aaron Goodwin</actor>
+		</credits>
+		<date>20090619</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Paranormal</category>
+		<length units="seconds">2640</length>
+		<episode-num system="dd_progid">EP01370926.0215</episode-num>
+		<episode-num system="xmltv_ns">1.2.</episode-num>
+		<previously-shown start="20090619000000" />
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180423170000 +0000" stop="20180423180000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Antiques Road Trip</title>
+		<desc lang="en">James Braxton and Charles Hanson head deep into Cornwall on the last day of their road trip. James goes to church before the final auction in Truro.</desc>
+		<credits>
+			<presenter>Tim Wonnacott</presenter>
+		</credits>
+		<date>20121012</date>
+		<category lang="en">Collectibles</category>
+		<category lang="en">Art</category>
+		<episode-num system="dd_progid">EP01302690.0138</episode-num>
+		<episode-num system="xmltv_ns">4.9.</episode-num>
+		<previously-shown start="20121012000000" />
+		<rating system="Australian Classification Board">
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20180423180000 +0000" stop="20180423190000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Escape to the Country</title>
+		<sub-title lang="en">Devon</sub-title>
+		<desc lang="en">Jonnie Irwin's house hunt gathers pace as he helps a novelist mother and her horse-loving daughter find a charming equestrian home for £620,000 in the Devon countryside. Plus, Jonnie learns why cob forms the building blocks of Devon's architecture, and how the use of this natural material is far from mud in the 21st century.</desc>
+		<credits>
+			<presenter>Jules Hudson</presenter>
+			<presenter>Alistair Appleton</presenter>
+			<presenter>Denise Nurse</presenter>
+			<presenter>Tim Vincent</presenter>
+			<presenter>Nicki Chapman</presenter>
+			<presenter>Jonnie Irwin</presenter>
+		</credits>
+		<date>20130528</date>
+		<category lang="en">House/garden</category>
+		<category lang="en">Home improvement</category>
+		<category lang="en">Bus./financial</category>
+		<episode-num system="dd_progid">EP01259550.0670</episode-num>
+		<episode-num system="xmltv_ns">12.74/75.</episode-num>
+		<previously-shown start="20130528000000" />
+		<rating system="Australian Classification Board">
+			<value>G</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180423190000 +0000" stop="20180423200000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">The Sheriffs Are Coming</title>
+		<desc lang="en">We meet the family that paid £2,700 for a car from a secondhand car dealer but which they say was dangerous. The Sheriffs are forced to call in tow trucks to pay off the debt, but the debtor isn't taking things lying down.</desc>
+		<credits>
+			<presenter>David Reed</presenter>
+		</credits>
+		<date>20150413</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Crime</category>
+		<episode-num system="dd_progid">EP01543149.0067</episode-num>
+		<previously-shown start="20150413000000" />
+	</programme>
+	<programme start="20180423200000 +0000" stop="20180423210000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Helicopter ER</title>
+		<desc lang="en">More daring rescues for the Yorkshire Air Ambulance medics. A blazing car plunges off a bridge onto the motorway, and a cow leaves a farmer with some serious injuries.</desc>
+		<date>20170828</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Medical</category>
+		<episode-num system="dd_progid">EP02511279.0016</episode-num>
+		<episode-num system="xmltv_ns">1.0.</episode-num>
+		<previously-shown start="20170828000000" />
+	</programme>
+	<programme start="20180423210000 +0000" stop="20180423213000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Kings Cross ER</title>
+		<desc lang="en">The team at St Vincent's hospital treat a man who was assaulted with a hammer and had hydrochloric acid thrown into his face. Doctors attempt to stabilise his condition.</desc>
+		<date>20130221</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Medical</category>
+		<episode-num system="dd_progid">EP01699055.0017</episode-num>
+		<episode-num system="xmltv_ns">1.1.</episode-num>
+		<previously-shown start="20130221000000" />
+	</programme>
+	<programme start="20180423213000 +0000" stop="20180423220000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Kings Cross ER</title>
+		<desc lang="en">The team at St Vincent's hospital attempt to treat a 15-year-old girl who has overdosed on an unknown substance. See if doctors will be able to get to the bottom of her malady.</desc>
+		<date>20130228</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Medical</category>
+		<category lang="en">Documentary</category>
+		<episode-num system="dd_progid">EP01699055.0018</episode-num>
+		<episode-num system="xmltv_ns">1.2.</episode-num>
+		<previously-shown start="20130228000000" />
+	</programme>
+	<programme start="20180423220000 +0000" stop="20180423230000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Countdown to Murder</title>
+		<sub-title lang="en">The Body in the Lake</sub-title>
+		<desc lang="en">Schoolteacher Carol Parks's body was found in Coniston Water in 1997, 21 years after she disappeared. Her husband, Gordon, was eventually convicted of her murder, but his reasons for the crime and how he managed to evade capture remain unanswered.</desc>
+		<credits>
+			<producer>Fintan Maguire</producer>
+		</credits>
+		<date>20141125</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Crime</category>
+		<episode-num system="dd_progid">EP01804202.0014</episode-num>
+		<episode-num system="xmltv_ns">1.5.</episode-num>
+		<previously-shown start="20141125000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>13+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180423230000 +0000" stop="20180424000000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Dr. G: Medical Examiner</title>
+		<sub-title lang="en">Deadly Doses</sub-title>
+		<desc lang="en">A woman with lupus suffers a cardiac arrest and dies after overdosing on antihistamines. Dr G must determine if the woman died as a result of the overdose or due to her condition.</desc>
+		<credits>
+			<actor>Dr. Jan Garavaglia</actor>
+		</credits>
+		<date>20080523</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Medical</category>
+		<category lang="en">Health</category>
+		<episode-num system="dd_progid">EP01305648.0027</episode-num>
+		<episode-num system="xmltv_ns">3.5/13.</episode-num>
+		<previously-shown start="20080523000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180424000000 +0000" stop="20180424010000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Born to Kill?</title>
+		<sub-title lang="en">The Washington Snipers</sub-title>
+		<desc lang="en">In 2002, two gunmen terrorised the American capital with random fatal shootings, but was their appetite for murder innate or learned?</desc>
+		<date>20051110</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Crime</category>
+		<category lang="en">History</category>
+		<episode-num system="dd_progid">EP01304851.0008</episode-num>
+		<episode-num system="xmltv_ns">0.4/6.</episode-num>
+		<previously-shown start="20051110000000" />
+		<rating system="Australian Classification Board">
+			<value>MA 15+</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>13+</value>
+		</rating>
+	</programme>
+	<programme start="20180424010000 +0000" stop="20180424030000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Teleshopping</title>
+		<desc lang="en">Bringing the best in entertainment and teleshopping.</desc>
+		<category lang="en">Shopping</category>
+		<category lang="en">Talk</category>
+		<category lang="en">Special</category>
+		<episode-num system="dd_progid">SH01261329.0000</episode-num>
+		<previously-shown start="20020306000000" />
+	</programme>
+	<programme start="20180424030000 +0000" stop="20180424035000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Dr. G: Medical Examiner</title>
+		<sub-title lang="en">Deadly Doses</sub-title>
+		<desc lang="en">A woman with lupus suffers a cardiac arrest and dies after overdosing on antihistamines. Dr G must determine if the woman died as a result of the overdose or due to her condition.</desc>
+		<credits>
+			<actor>Dr. Jan Garavaglia</actor>
+		</credits>
+		<date>20080523</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Medical</category>
+		<category lang="en">Health</category>
+		<episode-num system="dd_progid">EP01305648.0027</episode-num>
+		<episode-num system="xmltv_ns">3.5/13.</episode-num>
+		<previously-shown start="20080523000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180424035000 +0000" stop="20180424043500 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Countdown to Murder</title>
+		<sub-title lang="en">The Body in the Lake</sub-title>
+		<desc lang="en">Schoolteacher Carol Parks's body was found in Coniston Water in 1997, 21 years after she disappeared. Her husband, Gordon, was eventually convicted of her murder, but his reasons for the crime and how he managed to evade capture remain unanswered.</desc>
+		<credits>
+			<producer>Fintan Maguire</producer>
+		</credits>
+		<date>20141125</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Crime</category>
+		<episode-num system="dd_progid">EP01804202.0014</episode-num>
+		<episode-num system="xmltv_ns">1.5.</episode-num>
+		<previously-shown start="20141125000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>13+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180424043500 +0000" stop="20180424050000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">DIY SOS</title>
+		<sub-title lang="en">Navenby</sub-title>
+		<desc lang="en">The team are in Navenby to help Maaike Zaan and John Heather complete the renovation to their disused telephone exchange. Maaike was diagnosed with osteonecrosis, a condition which means her bone marrow has died in both her hips and knees. This brought all renovation work to a stop. The plan is to create a multi-functional room with an eco-friendly heating system so that Maaike can have a space to work on her hobbies.</desc>
+		<credits>
+			<actor>Julian Perryman</actor>
+			<actor>Chris Frediani</actor>
+			<actor>Mark Millar</actor>
+			<actor>Billy Byrne</actor>
+			<actor>Mat Skelton</actor>
+			<actor>Julia Kendell</actor>
+			<producer>Simon Knight</producer>
+			<presenter>Nick Knowles</presenter>
+		</credits>
+		<date>20061206</date>
+		<category lang="en">Arts/crafts</category>
+		<category lang="en">Home improvement</category>
+		<category lang="en">House/garden</category>
+		<category lang="en">How-to</category>
+		<episode-num system="dd_progid">EP01402641.0029</episode-num>
+		<episode-num system="xmltv_ns">13.3.</episode-num>
+		<previously-shown start="20061206000000" />
+	</programme>
+	<programme start="20180424050000 +0000" stop="20180424060000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Celebrity Fantasy Homes</title>
+		<sub-title lang="en">Victoria Hervey</sub-title>
+		<desc lang="en">Socialite Lady Victoria Hervey chats about life in LA as Gaby Roslin helps her to find the perfect country retreat near Windsor in Berkshire.</desc>
+		<date>20090506</date>
+		<category lang="en">Bus./financial</category>
+		<category lang="en">House/garden</category>
+		<episode-num system="dd_progid">EP01300042.0006</episode-num>
+		<previously-shown start="20090506000000" />
+	</programme>
+	<programme start="20180424060000 +0000" stop="20180424070000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Teleshopping</title>
+		<desc lang="en">Bringing the best in entertainment and teleshopping.</desc>
+		<category lang="en">Shopping</category>
+		<category lang="en">Talk</category>
+		<category lang="en">Special</category>
+		<episode-num system="dd_progid">SH01261329.0000</episode-num>
+		<previously-shown start="20020306000000" />
+	</programme>
+	<programme start="20180424070000 +0000" stop="20180424080000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Escape to the Country</title>
+		<sub-title lang="en">Cambridgeshire</sub-title>
+		<desc lang="en">Nicki Chapman goes house-hunting with a couple who are leaving East London life to move to Cambridgeshire with their two children. With a budget of £450,000, good schools and a large garden are a must. They are after contemporary country living, so will a medieval 15th-century coach house be too daunting a proposition?</desc>
+		<credits>
+			<presenter>Jules Hudson</presenter>
+			<presenter>Alistair Appleton</presenter>
+			<presenter>Denise Nurse</presenter>
+			<presenter>Tim Vincent</presenter>
+		</credits>
+		<date>20110427</date>
+		<category lang="en">House/garden</category>
+		<category lang="en">Home improvement</category>
+		<category lang="en">Bus./financial</category>
+		<episode-num system="dd_progid">EP01259550.0453</episode-num>
+		<previously-shown start="20110427000000" />
+		<rating system="Australian Classification Board">
+			<value>G</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180424080000 +0000" stop="20180424090000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Celebrity Fantasy Homes</title>
+		<sub-title lang="en">Mica Paris</sub-title>
+		<desc lang="en">Singer and TV presenter Mica Paris tells Gaby Roslin about success, bankruptcy and the relaunch of her career as she house hunts in Sardinia.</desc>
+		<date>20090508</date>
+		<category lang="en">Bus./financial</category>
+		<category lang="en">House/garden</category>
+		<episode-num system="dd_progid">EP01300042.0007</episode-num>
+		<previously-shown start="20090508000000" />
+	</programme>
+	<programme start="20180424090000 +0000" stop="20180424100000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">The Sheriffs Are Coming</title>
+		<desc lang="en">The sheriffs help a pensioner that was left with a pile of bricks instead of the driveway she paid for.</desc>
+		<credits>
+			<presenter>David Reed</presenter>
+		</credits>
+		<date>20150414</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Crime</category>
+		<episode-num system="dd_progid">EP01543149.0091</episode-num>
+		<episode-num system="xmltv_ns">2.16/20.</episode-num>
+		<previously-shown start="20150414000000" />
+	</programme>
+	<programme start="20180424100000 +0000" stop="20180424110000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Helicopter Heroes</title>
+		<desc lang="en">A nurse becomes a difficult patient for the helimed team, there is a race to save a farm worker trapped in machinery and a pensioner's car careers half a mile down a hill-side.</desc>
+		<date>20091027</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Educational</category>
+		<episode-num system="dd_progid">EP01323926.0038</episode-num>
+		<previously-shown start="20091027000000" />
+	</programme>
+	<programme start="20180424110000 +0000" stop="20180424120000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Antiques Road Trip</title>
+		<desc lang="en">James Braxton has a long way to catch Charlie Ross as they battle it out to make profits from antiques. They start in the fishing village of Cullen in the Highlands of Scotland and end in Aberdeen for the auction showdown.</desc>
+		<credits>
+			<presenter>Tim Wonnacott</presenter>
+		</credits>
+		<date>20120320</date>
+		<category lang="en">Collectibles</category>
+		<category lang="en">Art</category>
+		<episode-num system="dd_progid">EP01302690.0115</episode-num>
+		<episode-num system="xmltv_ns">3.26.</episode-num>
+		<previously-shown start="20120320000000" />
+		<rating system="Australian Classification Board">
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20180424120000 +0000" stop="20180424130000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Escape to the Country</title>
+		<sub-title lang="en">Cambridgeshire</sub-title>
+		<desc lang="en">Nicki Chapman goes house-hunting with a couple who are leaving East London life to move to Cambridgeshire with their two children. With a budget of £450,000, good schools and a large garden are a must. They are after contemporary country living, so will a medieval 15th-century coach house be too daunting a proposition?</desc>
+		<credits>
+			<presenter>Jules Hudson</presenter>
+			<presenter>Alistair Appleton</presenter>
+			<presenter>Denise Nurse</presenter>
+			<presenter>Tim Vincent</presenter>
+		</credits>
+		<date>20110427</date>
+		<category lang="en">House/garden</category>
+		<category lang="en">Home improvement</category>
+		<category lang="en">Bus./financial</category>
+		<episode-num system="dd_progid">EP01259550.0453</episode-num>
+		<previously-shown start="20110427000000" />
+		<rating system="Australian Classification Board">
+			<value>G</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180424130000 +0000" stop="20180424140000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Celebrity Fantasy Homes</title>
+		<sub-title lang="en">Mica Paris</sub-title>
+		<desc lang="en">Singer and TV presenter Mica Paris tells Gaby Roslin about success, bankruptcy and the relaunch of her career as she house hunts in Sardinia.</desc>
+		<date>20090508</date>
+		<category lang="en">Bus./financial</category>
+		<category lang="en">House/garden</category>
+		<episode-num system="dd_progid">EP01300042.0007</episode-num>
+		<previously-shown start="20090508000000" />
+	</programme>
+	<programme start="20180424140000 +0000" stop="20180424150000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Helicopter Heroes</title>
+		<desc lang="en">A nurse becomes a difficult patient for the helimed team, there is a race to save a farm worker trapped in machinery and a pensioner's car careers half a mile down a hill-side.</desc>
+		<date>20091027</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Educational</category>
+		<episode-num system="dd_progid">EP01323926.0038</episode-num>
+		<previously-shown start="20091027000000" />
+	</programme>
+	<programme start="20180424150000 +0000" stop="20180424160000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Most Haunted</title>
+		<sub-title lang="en">Thackray Museum</sub-title>
+		<desc lang="en">The team head to a medical museum in Leeds, where a spirit doctor is said to roam.</desc>
+		<credits>
+			<producer>Yvette Fielding</producer>
+			<presenter>Yvette Fielding</presenter>
+			<presenter>Chris Conway</presenter>
+			<presenter>Ciarán O'Keeffe</presenter>
+		</credits>
+		<date>20151101</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Paranormal</category>
+		<category lang="en">Documentary</category>
+		<episode-num system="dd_progid">EP01274072.0267</episode-num>
+		<episode-num system="xmltv_ns">16.2.</episode-num>
+		<previously-shown start="20151101000000" />
+		<rating system="British Board of Film Classification">
+			<value>PG</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180424160000 +0000" stop="20180424170000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Ghost Adventures</title>
+		<sub-title lang="en">Bird Cage Theatre</sub-title>
+		<desc lang="en">The ghoul-chasing gang visit the rather ominously named Tombstone in New Mexico, where the ghosts of a haunted gathering hall await.</desc>
+		<credits>
+			<actor>Zak Bagans</actor>
+			<actor>Nick Groff</actor>
+			<actor>Aaron Goodwin</actor>
+		</credits>
+		<date>20090703</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Paranormal</category>
+		<length units="seconds">2640</length>
+		<episode-num system="dd_progid">EP01370926.0082</episode-num>
+		<episode-num system="xmltv_ns">1.4.</episode-num>
+		<previously-shown start="20090703000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="Film &amp; Publication Board">
+			<value>16</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180424170000 +0000" stop="20180424180000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Antiques Road Trip</title>
+		<desc lang="en">It is the start of another road trip and Anita Manning and Philip Serrell are travelling through the north of England in their classic car, with the aim of turning a profit on their items at auction in Edinburgh.</desc>
+		<credits>
+			<presenter>Tim Wonnacott</presenter>
+		</credits>
+		<date>20121015</date>
+		<category lang="en">Collectibles</category>
+		<category lang="en">Art</category>
+		<episode-num system="dd_progid">EP01302690.0139</episode-num>
+		<episode-num system="xmltv_ns">4.10.</episode-num>
+		<previously-shown start="20121015000000" />
+		<rating system="Australian Classification Board">
+			<value>G</value>
+		</rating>
+	</programme>
+	<programme start="20180424180000 +0000" stop="20180424190000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Escape to the Country</title>
+		<sub-title lang="en">Cambridgeshire</sub-title>
+		<desc lang="en">Nicki Chapman goes house-hunting with a couple who are leaving East London life to move to Cambridgeshire with their two children. With a budget of £450,000, good schools and a large garden are a must. They are after contemporary country living, so will a medieval 15th-century coach house be too daunting a proposition?</desc>
+		<credits>
+			<presenter>Jules Hudson</presenter>
+			<presenter>Alistair Appleton</presenter>
+			<presenter>Denise Nurse</presenter>
+			<presenter>Tim Vincent</presenter>
+		</credits>
+		<date>20110427</date>
+		<category lang="en">House/garden</category>
+		<category lang="en">Home improvement</category>
+		<category lang="en">Bus./financial</category>
+		<episode-num system="dd_progid">EP01259550.0453</episode-num>
+		<previously-shown start="20110427000000" />
+		<rating system="Australian Classification Board">
+			<value>G</value>
+		</rating>
+		<rating system="Canadian Parental Rating">
+			<value>G</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>G</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVG</value>
+		</rating>
+	</programme>
+	<programme start="20180424190000 +0000" stop="20180424200000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">The Sheriffs Are Coming</title>
+		<desc lang="en">The sheriffs help a pensioner that was left with a pile of bricks instead of the driveway she paid for.</desc>
+		<credits>
+			<presenter>David Reed</presenter>
+		</credits>
+		<date>20150414</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Crime</category>
+		<episode-num system="dd_progid">EP01543149.0091</episode-num>
+		<episode-num system="xmltv_ns">2.16/20.</episode-num>
+		<previously-shown start="20150414000000" />
+	</programme>
+	<programme start="20180424200000 +0000" stop="20180424210000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Secret Eaters</title>
+		<desc lang="en">In Birmingham, sisters Sharon and Tracy are at a loss to explain their expanding midriff. They're puzzled at the rate they are piling on the pounds, and desperate to understand why their weight is spiralling out of control.</desc>
+		<credits>
+			<presenter>Anna Richardson</presenter>
+		</credits>
+		<date>20140402</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Medical</category>
+		<episode-num system="dd_progid">EP01564387.0019</episode-num>
+		<episode-num system="xmltv_ns">2.3.</episode-num>
+		<previously-shown start="20140402000000" />
+	</programme>
+	<programme start="20180424210000 +0000" stop="20180424220000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Nurses Who Kill *</title>
+		<desc lang="en">Anne Grigg-Booth was accused of murdering three patients at a hospital in Yorkshire, but died of an overdose while awaiting trial. Was her drug and alcohol addiction to blame?</desc>
+		<date>20180424</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Crime</category>
+		<episode-num system="dd_progid">EP02522733.0012</episode-num>
+		<episode-num system="xmltv_ns">1.1.</episode-num>
+		<new />
+		<rating system="Canadian Parental Rating">
+			<value>14+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TV14</value>
+		</rating>
+	</programme>
+	<programme start="20180424220000 +0000" stop="20180424230000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Countdown to Murder</title>
+		<sub-title lang="en">Murdering the Mother-in-Law</sub-title>
+		<desc lang="en">Sixty-five-year-old Maureen Cosgrove was a pillar of her local community, but when unemployed drifter George Maben fell in love with her youngest daughter and moved in, Maureen had unwittingly invited her murderer into her home.</desc>
+		<credits>
+			<producer>Fintan Maguire</producer>
+		</credits>
+		<date>20150903</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Crime</category>
+		<episode-num system="dd_progid">EP01804202.0015</episode-num>
+		<episode-num system="xmltv_ns">1.7.</episode-num>
+		<previously-shown start="20150903000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>13+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180424230000 +0000" stop="20180425000000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Dr. G: Medical Examiner</title>
+		<sub-title lang="en">Twist of Fate</sub-title>
+		<desc lang="en">When a 75-year-old woman dies after a minor car accident, despite no significant injuries or medical ailments, it's up to Dr G to determine the cause of death.</desc>
+		<credits>
+			<actor>Dr. Jan Garavaglia</actor>
+		</credits>
+		<date>20080530</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Medical</category>
+		<category lang="en">Health</category>
+		<episode-num system="dd_progid">EP01305648.0048</episode-num>
+		<episode-num system="xmltv_ns">3.6/13.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20080530000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180425000000 +0000" stop="20180425010000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Born to Kill?</title>
+		<sub-title lang="en">Ivan Milat</sub-title>
+		<desc lang="en">The concluding episode in this investigative series profiles Ivan Milat, the murderer of numerous backpackers in Australia in the 1990s. What led him to kill?</desc>
+		<date>20051117</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Crime</category>
+		<category lang="en">History</category>
+		<episode-num system="dd_progid">EP01304851.0004</episode-num>
+		<episode-num system="xmltv_ns">0.5/6.</episode-num>
+		<previously-shown start="20051117000000" />
+		<rating system="Australian Classification Board">
+			<value>MA 15+</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>13+</value>
+		</rating>
+	</programme>
+	<programme start="20180425010000 +0000" stop="20180425030000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Teleshopping</title>
+		<desc lang="en">Bringing the best in entertainment and teleshopping.</desc>
+		<category lang="en">Shopping</category>
+		<category lang="en">Talk</category>
+		<category lang="en">Special</category>
+		<episode-num system="dd_progid">SH01261329.0000</episode-num>
+		<previously-shown start="20020306000000" />
+	</programme>
+	<programme start="20180425030000 +0000" stop="20180425035000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Dr. G: Medical Examiner</title>
+		<sub-title lang="en">Twist of Fate</sub-title>
+		<desc lang="en">When a 75-year-old woman dies after a minor car accident, despite no significant injuries or medical ailments, it's up to Dr G to determine the cause of death.</desc>
+		<credits>
+			<actor>Dr. Jan Garavaglia</actor>
+		</credits>
+		<date>20080530</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Medical</category>
+		<category lang="en">Health</category>
+		<episode-num system="dd_progid">EP01305648.0048</episode-num>
+		<episode-num system="xmltv_ns">3.6/13.</episode-num>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+		<previously-shown start="20080530000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180425035000 +0000" stop="20180425043500 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">Countdown to Murder</title>
+		<sub-title lang="en">Murdering the Mother-in-Law</sub-title>
+		<desc lang="en">Sixty-five-year-old Maureen Cosgrove was a pillar of her local community, but when unemployed drifter George Maben fell in love with her youngest daughter and moved in, Maureen had unwittingly invited her murderer into her home.</desc>
+		<credits>
+			<producer>Fintan Maguire</producer>
+		</credits>
+		<date>20150903</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Crime</category>
+		<episode-num system="dd_progid">EP01804202.0015</episode-num>
+		<episode-num system="xmltv_ns">1.7.</episode-num>
+		<previously-shown start="20150903000000" />
+		<rating system="Canadian Parental Rating">
+			<value>PG</value>
+		</rating>
+		<rating system="Régie du cinéma">
+			<value>13+</value>
+		</rating>
+		<rating system="USA Parental Rating">
+			<value>TVPG</value>
+		</rating>
+	</programme>
+	<programme start="20180425043500 +0000" stop="20180425050000 +0000" channel="I155.45828.schedulesdirect.org">
+		<title lang="en">DIY SOS</title>
+		<sub-title lang="en">Grays</sub-title>
+		<desc lang="en">The team are in Grays, Essex to help busy paramedic Tina Freear renovate her lounge/dining room. Tina bought her house five years ago with the best intentions but work has ground to a halt. Alongside her busy job as a paramedic she has struggled to cope with a collection of cowboy builders. Plus, three more families appeal for rescue in the next programme.</desc>
+		<credits>
+			<actor>Julian Perryman</actor>
+			<actor>Chris Frediani</actor>
+			<actor>Mark Millar</actor>
+			<actor>Billy Byrne</actor>
+			<actor>Mat Skelton</actor>
+			<actor>Julia Kendell</actor>
+			<producer>Simon Knight</producer>
+			<presenter>Nick Knowles</presenter>
+		</credits>
+		<date>20061213</date>
+		<category lang="en">Arts/crafts</category>
+		<category lang="en">Home improvement</category>
+		<category lang="en">House/garden</category>
+		<category lang="en">How-to</category>
+		<episode-num system="dd_progid">EP01402641.0023</episode-num>
+		<episode-num system="xmltv_ns">13.4.</episode-num>
+		<previously-shown start="20061213000000" />
+	</programme>
+</tv>
